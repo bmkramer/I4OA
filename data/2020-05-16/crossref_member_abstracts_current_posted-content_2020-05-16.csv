@@ -1,0 +1,51 @@
+id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_type
+246,Cold Spring Harbor Laboratory,67516,TRUE,0.9985485076904297
+3145,Copernicus GmbH,61963,TRUE,0.41913723945617676
+15934,Center for Open Science,49942,TRUE,0.9777942299842834
+8761,Research Square,32795,TRUE,0.9995425939559937
+22980,Morressier,22794,FALSE,0
+316,American Chemical Society (ACS),16420,TRUE,0.6107186079025269
+1968,MDPI AG,11842,TRUE,0.9923999309539795
+1010,JMIR Publications Inc.,6164,TRUE,0.9451654553413391
+4443,PeerJ,3706,TRUE,0.9989206790924072
+311,Wiley,2422,TRUE,0
+179,SAGE Publications,1102,TRUE,1
+263,Institute of Electrical and Electronics Engineers (IEEE),883,TRUE,0.9954699873924255
+9829,"Authorea, Inc.",592,FALSE,0
+237,The Company of Biologists,559,FALSE,0
+56,Cambridge University Press (CUP),265,TRUE,0
+2086,Beilstein Institut,219,TRUE,1
+5403,ScienceOpen,173,TRUE,0.9826589822769165
+11875,Even3,156,FALSE,0
+1167,American Diabetes Association,144,TRUE,1
+77,The Electrochemical Society,120,TRUE,0.9750000238418579
+9794,Society for Artistic Research,93,FALSE,0
+8607,Federal Reserve Bank of Minneapolis,92,FALSE,0
+530,FapUNIFESP (SciELO),91,TRUE,0
+8945,Rhodes University,84,TRUE,1
+16838,"PoolText, Inc",79,FALSE,0
+6626,The University of Iowa,69,TRUE,0.6376811861991882
+4923,Open Book Publishers,64,TRUE,0
+257,Geological Society of America,63,TRUE,1
+10196,NPG Publishing,55,TRUE,1
+4068,National Institute of Standards and Technology (NIST),47,TRUE,0
+1305,WHO Press,44,FALSE,0
+10593,Swarthmore College,41,FALSE,0
+11224,Victoria University of Wellington Library,40,TRUE,1
+11508,"James P. Adams Library, Rhode Island College",31,TRUE,1
+14238,Williams College,29,FALSE,0
+5433,UCL Press,27,TRUE,0.9629629850387573
+11647,UNESCO-IHP,27,TRUE,0.9629629850387573
+22141,CALNESTOR Knowledge Solutions Private Limited,26,TRUE,0
+3180,Amsterdam University Press,20,TRUE,1
+9479,Carleton University,15,TRUE,0
+3444,Smithsonian Institution,12,TRUE,1
+5801,The Hong Kong University of Science and Technology Library,9,FALSE,0
+5570,IUScholarWorks,5,TRUE,0
+11420,Internet2,4,FALSE,0
+15947,Boise State University,2,TRUE,0
+2986,University of South Florida Libraries,1,TRUE,0
+5303,Electronic Enlightenment Project,1,FALSE,0
+10770,Universitatsverlag Gottingen,1,FALSE,0
+14076,University of New Hampshire Libraries,1,FALSE,0
+17333,Society of Psychoceramics,1,TRUE,0
