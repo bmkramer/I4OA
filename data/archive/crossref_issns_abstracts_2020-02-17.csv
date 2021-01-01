@@ -1,0 +1,137 @@
+"issn","title","publisher","total_dois","current_dois","backfile_dois","deposits_abstracts_current","abstracts_current","deposits_abstracts_backfile","abstracts_backfile"
+"1479-6805","Journal of Endocrinology","Bioscientifica",14652,319,14333,TRUE,0.981191217899323,TRUE,0.785320580005646
+"1479-6813","Journal of Molecular Endocrinology","Bioscientifica",2434,189,2245,TRUE,0.973544955253601,TRUE,0.617817342281342
+"1479-6821","Endocrine Related Cancer","Bioscientifica",2185,301,1884,TRUE,0.923588037490845,TRUE,0.747346043586731
+"1365-2265","Clinical Endocrinology","Wiley (Blackwell Publishing)",10718,563,10155,FALSE,0,FALSE,0
+"2049-3614","Endocrine Connections","Bioscientifica",699,410,289,TRUE,0.987804889678955,TRUE,0.941176474094391
+"2052-0573","Endocrinology Diabetes and Metabolism Case Reports","Bioscientifica",495,182,313,TRUE,1,TRUE,1
+"1469-9044","Review of International Studies","Cambridge University Press",1936,109,1827,TRUE,0.78899085521698,TRUE,0.743842363357544
+"2057-5645","European Journal of International Security","Cambridge University Press",98,55,43,TRUE,0.654545426368713,TRUE,0.790697693824768
+"1474-0648","Transactions of the Royal Historical Society","Cambridge University Press",2318,28,2290,TRUE,0.892857134342194,TRUE,0.517030596733093
+"1478-5110","Camden Fifth Series","Cambridge University Press",820,63,757,TRUE,0.365079373121262,TRUE,0.585204780101776
+"1234-5678","Proceedings of the London Mathematical Society","London Mathematical Society",7795,230,7565,FALSE,0,TRUE,0.0140118971467018
+"1469-7750","Journal of the London Mathematical Society","London Mathematical Society",10649,218,10431,FALSE,0,TRUE,0.0059438212774694
+"1469-2120","Bulletin of the London Mathematical Society","London Mathematical Society",7177,201,6976,FALSE,0,TRUE,0.0136181190609932
+"2052-4986","Transactions of the London Mathematical Society","London Mathematical Society",35,12,23,FALSE,0,FALSE,0
+"1753-8424","Journal of Topology","London Mathematical Society",623,97,526,FALSE,0,FALSE,0
+"1570-5846","Compositio Mathematica","London Mathematical Society",1942,211,1731,TRUE,0.763033151626587,TRUE,0.430964767932892
+"2041-7942","Mathematika","London Mathematical Society",2203,129,2074,TRUE,0.0465116277337074,FALSE,0
+"1361-6544","Nonlinearity","IOP Publishing",3910,446,3464,FALSE,0,FALSE,0
+"1468-4829","Russian Mathematical Surveys","Turpion ",5178,108,5070,FALSE,0,FALSE,0
+"1468-4810","Izvestiya Mathematics","Turpion ",1450,133,1317,FALSE,0,FALSE,0
+"1468-4802","Sbornik Mathematics","Turpion ",2281,175,2106,FALSE,0,FALSE,0
+"1547-738X","Transactions of the Moscow Mathematical Society","American Mathematical Society",160,11,149,FALSE,0,FALSE,0
+"1460-2172","Rheumatology","Oxford University Press",19511,2972,16539,TRUE,0.158479139208794,TRUE,0.00018138944869861
+"2514-1775","Rheumatology Advances in Practice","Oxford University Press",329,263,66,TRUE,0.376425862312317,FALSE,0
+"1557-0681","Musculoskeletal Care","Wiley (John Wiley & Sons)",638,136,502,FALSE,0,FALSE,0
+"1522-9645","European Heart Journal","Oxford University Press",39824,10619,29205,TRUE,0.425934642553329,TRUE,0.000205444273888133
+"1755-3245","Cardiovascular Research","Oxford University Press",14121,1176,12945,TRUE,0.196428567171097,TRUE,0.00216299737803638
+"2058-1742","European Heart Journal - Quality of Care and Clinical Outcomes","Oxford University Press",288,145,143,TRUE,0.379310339689255,TRUE,0.00699300691485405
+"2514-2119","European Heart Journal - Case Reports","Oxford University Press",448,430,18,TRUE,0.474418610334396,FALSE,0
+"2055-6845","European Heart Journal - Cardiovascular Pharmacotherapy","Oxford University Press",311,145,166,TRUE,0.372413784265518,FALSE,0
+"2047-2412","European Heart Journal - Cardiovascular Imaging","Oxford University Press",4874,2402,2472,TRUE,0.562864303588867,TRUE,0.000404530757805333
+"1532-2092","EP Europace","Oxford University Press",13382,1477,11905,TRUE,0.12119160592556,TRUE,0.00277194450609386
+"1879-0844","European Journal of Heart Failure","Wiley (John Wiley & Sons)",4850,648,4202,FALSE,0,FALSE,0
+"2048-8734","European Heart Journal Acute Cardiovascular Care","SAGE Publications",717,180,537,TRUE,0.51111114025116,TRUE,0.0446927361190319
+"2047-4881","European Journal of Preventive Cardiology","SAGE Publications",2436,1110,1326,TRUE,0.189189195632935,FALSE,0
+"1873-1953","European Journal of Cardiovascular Nursing","SAGE Publications",2428,190,2238,TRUE,0.431578934192657,FALSE,0
+"2055-5822","ESC Heart Failure","Wiley (John Wiley & Sons)",634,386,248,FALSE,0,FALSE,0
+"1554-2815","European Heart Journal Supplements","Oxford University Press",1615,488,1127,TRUE,0.0778688490390778,FALSE,0
+"1969-6213","EuroIntervention","Europa Digital and Publishing",3510,698,2812,FALSE,0,FALSE,0
+"1574-6941","FEMS Microbiology Ecology","Oxford University Press",5298,476,4822,TRUE,0.319327741861343,TRUE,0.000414765643654391
+"1574-6968","FEMS Microbiology Letters","Oxford University Press",22405,608,21797,TRUE,0.297697365283966,TRUE,4.58778740721755e-05
+"1574-6976","FEMS Microbiology Reviews","Oxford University Press",1666,81,1585,TRUE,0.333333343267441,FALSE,0
+"1567-1364","FEMS Yeast Research","Oxford University Press",2375,227,2148,TRUE,0.268722474575043,FALSE,0
+"2049-632X","Pathogens and Disease","Oxford University Press",790,166,624,TRUE,0.2891566157341,TRUE,0.00160256412345916
+"1878-3503","Transactions of the Royal Society of Tropical Medicine and Hygiene","Oxford University Press",18747,284,18463,TRUE,0.394366204738617,TRUE,0.00021664951054845
+"1876-3405","International Health","Oxford University Press",799,262,537,TRUE,0.503816783428192,TRUE,0.00186219741590321
+"1095-8312","Biological Journal of the Linnean Society","Oxford University Press",6435,474,5961,TRUE,0.322784811258316,TRUE,0.000167757083545439
+"1096-3642","Zoological Journal of the Linnean Society","Oxford University Press",3949,311,3638,TRUE,0.48553055524826,TRUE,0.00137438147794455
+"1095-8339","Botanical Journal of the Linnean Society","Oxford University Press",4819,235,4584,TRUE,0.36595743894577,TRUE,0.000218150089494884
+"1748-8966","Criminology & Criminal Justice","SAGE Publications",642,100,542,TRUE,0.379999995231628,TRUE,0.0313653126358986
+"1464-3529","The British Journal of Criminology","Oxford University Press",5130,179,4951,TRUE,0.357541888952255,TRUE,0.000201979404664598
+"1749-9763","Cultural Sociology","SAGE Publications",600,112,488,TRUE,0.133928567171097,TRUE,0.0389344245195389
+"0038-0385","Sociology","SAGE Publications",7085,176,6909,TRUE,0.375,TRUE,0.00115790998097509
+"1469-8722","Work Employment and Society","SAGE Publications",3708,164,3544,TRUE,0.45731708407402,FALSE,0
+"1360-7804","Sociological Research Online","SAGE Publications",1999,164,1835,TRUE,0.317073166370392,TRUE,0.54713898897171
+"1461-7218","International Review for the Sociology of Sport","SAGE Publications",1542,102,1440,TRUE,0.558823525905609,TRUE,0.00625000009313226
+"2041-9066","Political Insight","SAGE Publications",450,98,352,FALSE,0,FALSE,0
+"1467-9248","Political Studies","SAGE Publications",3524,108,3416,TRUE,0.638888895511627,TRUE,0.0137587822973728
+"1467-9256","Politics","SAGE Publications",1044,66,978,TRUE,0.575757563114166,TRUE,0.0102249486371875
+"1478-9299","Political Studies Review","SAGE Publications",3369,101,3268,TRUE,0.485148519277573,FALSE,0
+"1467-856X","The British Journal of Politics and International Relations","SAGE Publications",870,113,757,TRUE,0.212389379739761,FALSE,0
+"0016-7878","Proceedings of the Geologists Association","Elsevier ",6389,195,6194,FALSE,0,FALSE,0
+"1365-2451","Geology Today","Wiley (Blackwell Publishing)",2239,93,2146,FALSE,0,FALSE,0
+"2575-8314","People and Nature","Wiley (John Wiley & Sons)",70,70,0,FALSE,0,FALSE,0
+"2688-8319","Ecological Solutions and Evidence","Wiley (John Wiley & Sons)",2,2,0,FALSE,0,FALSE,0
+"1365-2435","Functional Ecology","Wiley (Blackwell Publishing)",4525,539,3986,FALSE,0,FALSE,0
+"1365-2656","Journal of Animal Ecology","Wiley (Blackwell Publishing)",7764,408,7356,FALSE,0,FALSE,0
+"1365-2664","Journal of Applied Ecology","Wiley (Blackwell Publishing)",7269,523,6746,FALSE,0,FALSE,0
+"1365-2745","Journal of Ecology","Wiley (Blackwell Publishing)",9202,463,8739,FALSE,0,FALSE,0
+"2041-210X","Methods in Ecology and Evolution","Wiley (Blackwell Publishing)",1725,464,1261,FALSE,0,FALSE,0
+"2045-7758","Ecology and Evolution","Wiley (John Wiley & Sons)",6109,2382,3727,FALSE,0,FALSE,0
+"1476-5381","British Journal of Pharmacology","Wiley (Blackwell Publishing)",23640,887,22753,FALSE,0,FALSE,0
+"1365-2125","British Journal of Clinical Pharmacology","Wiley (Blackwell Publishing)",12761,795,11966,FALSE,0,FALSE,0
+"2052-1707","Pharmacology Research & Perspectives","Wiley (John Wiley & Sons)",591,198,393,FALSE,0,FALSE,0
+"1464-5491","Diabetic Medicine","Wiley (Blackwell Publishing)",9855,880,8975,FALSE,0,FALSE,0
+"1475-4762","Area","Wiley (Blackwell Publishing)",1710,212,1498,FALSE,0,FALSE,0
+"2054-4049","Geo Geography and Environment","Wiley (John Wiley & Sons)",92,44,48,FALSE,0,FALSE,0
+"1475-4959","Geographical Journal","Wiley (Blackwell Publishing)",23769,112,23657,FALSE,0,FALSE,0
+"1475-5661","Transactions of the Institute of British Geographers","Wiley (Blackwell Publishing)",2527,160,2367,FALSE,0,FALSE,0
+"1757-7799","Wiley Interdisciplinary Reviews Climate Change","Wiley (John Wiley & Sons)",694,148,546,FALSE,0,FALSE,0
+"1757-7799","Wiley Interdisciplinary Reviews Climate Change","Wiley (John Wiley & Sons)",694,148,546,FALSE,0,FALSE,0
+"1469-8080","Meteorological Applications","Wiley (John Wiley & Sons)",1538,180,1358,FALSE,0,FALSE,0
+"1477-8696","Weather","Wiley (John Wiley & Sons)",11831,527,11304,FALSE,0,FALSE,0
+"1530-261X","Atmospheric Science Letters","Wiley (John Wiley & Sons)",1029,191,838,FALSE,0,FALSE,0
+"1097-0088","International Journal of Climatology","Wiley (John Wiley & Sons)",6383,1067,5316,FALSE,0,FALSE,0
+"2049-6060","Geoscience Data Journal","Wiley (Blackwell Publishing)",96,41,55,FALSE,0,FALSE,0
+"1477-870X","Quarterly Journal of the Royal Meteorological Society","Wiley (John Wiley & Sons)",14997,592,14405,FALSE,0,FALSE,0
+"1365-2672","Journal of Applied Microbiology","Wiley (Blackwell Publishing)",8182,834,7348,FALSE,0,FALSE,0
+"1472-765X","Letters in Applied Microbiology","Wiley (Blackwell Publishing)",6279,388,5891,FALSE,0,FALSE,0
+"1462-2920","Environmental Microbiology","Wiley (Blackwell Publishing)",5619,815,4804,FALSE,0,FALSE,0
+"1758-2229","Environmental Microbiology Reports","Wiley (Blackwell Publishing)",1261,220,1041,FALSE,0,FALSE,0
+"1751-7915","Microbial Biotechnology","Wiley (Blackwell Publishing)",1392,309,1083,FALSE,0,FALSE,0
+"2050-0505","Energy Science & Engineering","Wiley (John Wiley & Sons)",657,466,191,FALSE,0,FALSE,0
+"1932-1031","Biofuels Bioproducts and Biorefining","Wiley (John Wiley & Sons)",1165,255,910,FALSE,0,FALSE,0
+"2152-3878","Greenhouse Gases Science and Technology","Wiley (John Wiley & Sons)",765,207,558,FALSE,0,FALSE,0
+"1097-4660","Journal of Chemical Technology & Biotechnology","Wiley (John Wiley & Sons)",8277,900,7377,FALSE,0,FALSE,0
+"1097-0010","Journal of the Science of Food and Agriculture","Wiley (John Wiley & Sons)",18901,1570,17331,FALSE,0,FALSE,0
+"1526-4998","Pest Management Science","Wiley (John Wiley & Sons)",4860,935,3925,FALSE,0,FALSE,0
+"1097-0126","Polymer International","Wiley (John Wiley & Sons)",6980,519,6461,FALSE,0,FALSE,0
+"1468-5965","JCMS Journal of Common Market Studies","Wiley (Blackwell Publishing)",3819,329,3490,FALSE,0,FALSE,0
+"1467-789X","Obesity Reviews","Wiley (Blackwell Publishing)",2212,380,1832,FALSE,0,FALSE,0
+"2047-6310","Pediatric Obesity","Wiley (Blackwell Publishing)",804,261,543,FALSE,0,FALSE,0
+"1758-8111","Clinical Obesity","Wiley (Blackwell Publishing)",442,135,307,FALSE,0,FALSE,0
+"2055-2238","Obesity Science & Practice","Wiley (John Wiley & Sons)",325,175,150,FALSE,0,FALSE,0
+"1469-3518","British Educational Research Journal","Wiley (John Wiley & Sons)",1953,179,1774,FALSE,0,FALSE,0
+"1467-8535","British Journal of Educational Technology","Wiley (Blackwell Publishing)",3931,324,3607,FALSE,0,FALSE,0
+"2049-6613","Review of Education","Wiley (John Wiley & Sons)",204,97,107,FALSE,0,FALSE,0
+"1469-3704","The Curriculum Journal","Wiley (John Wiley & Sons)",1137,117,1020,FALSE,0,FALSE,0
+"1474-9041","European Educational Research Journal","SAGE Publications",859,81,778,TRUE,0.407407402992249,FALSE,0
+"1469-7998","Journal of Zoology","Wiley (Blackwell Publishing)",8055,251,7804,FALSE,0,FALSE,0
+"1469-1795","Animal Conservation","Wiley (Blackwell Publishing)",1630,192,1438,FALSE,0,FALSE,0
+"1748-1090","International Zoo Yearbook","Wiley (Blackwell Publishing)",4111,60,4051,FALSE,0,FALSE,0
+"2056-3485","Remote Sensing in Ecology and Conservation","Wiley (John Wiley & Sons)",163,84,79,FALSE,0,FALSE,0
+"1365-2249","Clinical & Experimental Immunology","Wiley (Blackwell Publishing)",8753,371,8382,FALSE,0,FALSE,0
+"1365-2567","Immunology","Wiley (Blackwell Publishing)",5158,337,4821,FALSE,0,FALSE,0
+"1365-2826","Journal of Neuroendocrinology","Wiley (Blackwell Publishing)",4221,329,3892,FALSE,0,FALSE,0
+"1742-4658","FEBS Journal","Wiley (Blackwell Publishing)",7950,940,7010,FALSE,0,FALSE,0
+"1873-3468","FEBS Letters","Wiley (John Wiley & Sons)",57417,870,56547,FALSE,0,FALSE,0
+"1878-0261","Molecular Oncology","Wiley (John Wiley & Sons)",1574,422,1152,FALSE,0,FALSE,0
+"2211-5463","FEBS Open Bio","Wiley (John Wiley & Sons)",1227,485,742,FALSE,0,FALSE,0
+"1879-3479","International Journal of Gynecology & Obstetrics","Wiley (John Wiley & Sons)",24685,745,23940,FALSE,0,FALSE,0
+"1365-2133","British Journal of Dermatology","Wiley (Blackwell Publishing)",34155,2852,31303,FALSE,0,FALSE,0
+"1365-2230","Clinical and Experimental Dermatology","Wiley (Blackwell Publishing)",9393,719,8674,FALSE,0,FALSE,0
+"1365-2621","International Journal of Food Science & Technology","Wiley (Blackwell Publishing)",8203,869,7334,FALSE,0,FALSE,0
+"1745-4549","Journal of Food Processing and Preservation","Wiley (Blackwell Publishing)",4266,831,3435,FALSE,0,FALSE,0
+"2158-205X","Contemporary Social Science","Informa UK (Taylor & Francis)",339,91,248,FALSE,0,FALSE,0
+"1469-9710","Landscape Research","Informa UK (Taylor & Francis)",1865,125,1740,FALSE,0,FALSE,0
+"2379-2957","Area Development and Policy","Informa UK (Taylor & Francis)",112,55,57,FALSE,0,FALSE,0
+"1360-0591","Regional Studies","Informa UK (Taylor & Francis)",4258,351,3907,FALSE,0,FALSE,0
+"1742-1780","Spatial Economic Analysis","Informa UK (Taylor & Francis)",355,61,294,FALSE,0,FALSE,0
+"2162-268X","Territory Politics Governance","Informa UK (Taylor & Francis)",239,85,154,FALSE,0,FALSE,0
+"2379-2957","Area Development and Policy","Informa UK (Taylor & Francis)",112,55,57,FALSE,0,FALSE,0
+"2168-1376","Regional Studies Regional Science","Informa UK (Taylor & Francis)",240,88,152,FALSE,0,FALSE,0
+"1095-8282","Animal Behaviour","Elsevier ",15324,624,14700,FALSE,0,FALSE,0
+"2157-6009","Journal of Biological Education","Informa UK (Taylor & Francis)",3288,142,3146,FALSE,0,FALSE,0
+"2397-8562","Emerging Topics in Life Sciences","Portland Press",224,156,68,TRUE,0.967948734760284,TRUE,1
