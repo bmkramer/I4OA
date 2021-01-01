@@ -1,0 +1,65 @@
+id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_type
+246,Cold Spring Harbor Laboratory,90834,TRUE,0.9989981651306152
+3145,Copernicus GmbH,86287,TRUE,0.34096676111221313
+8761,Research Square,61988,TRUE,0.999306321144104
+15934,Center for Open Science,56815,TRUE,0.9821174144744873
+22980,Morressier,26002,FALSE,0
+316,American Chemical Society (ACS),20321,TRUE,0.6787559390068054
+1968,MDPI AG,14525,TRUE,0.9938726425170898
+1010,JMIR Publications Inc.,8489,TRUE,0.9559429883956909
+9829,"Authorea, Inc.",5895,FALSE,0
+311,Wiley,3822,TRUE,0
+4443,PeerJ,3706,TRUE,0.9989206790924072
+263,Institute of Electrical and Electronics Engineers (IEEE),1799,TRUE,0.9977765679359436
+11224,Victoria University of Wellington Library,1683,TRUE,1
+6438,California Digital Library (CDL),1583,TRUE,0.12318383157253265
+179,SAGE Publications,1550,TRUE,1
+237,The Company of Biologists,785,TRUE,0
+257,Geological Society of America,624,TRUE,1
+242,CABI Publishing,592,TRUE,0.9695945978164673
+1167,American Diabetes Association,577,TRUE,1
+56,Cambridge University Press (CUP),543,TRUE,0
+530,FapUNIFESP (SciELO),385,TRUE,0
+5403,ScienceOpen,303,TRUE,0.9867987036705017
+2086,Beilstein Institut,267,TRUE,1
+11875,Even3,228,FALSE,0
+77,The Electrochemical Society,169,TRUE,0.9822485446929932
+8607,Federal Reserve Bank of Minneapolis,118,FALSE,0
+8945,Rhodes University,114,TRUE,1
+10196,NPG Publishing,107,TRUE,1
+9794,Society for Artistic Research,105,FALSE,0
+4923,Open Book Publishers,80,TRUE,0
+16838,"PoolText, Inc",79,FALSE,0
+26239,Applied Energy Innovation Institute (AEii),74,FALSE,0
+6626,The University of Iowa,70,TRUE,0.6428571343421936
+8901,AIJR Publisher,69,TRUE,0.8405796885490417
+8634,Russian Research Anti-Plague Institute Microbe,68,TRUE,0.9852941036224365
+11508,"James P. Adams Library, Rhode Island College",64,TRUE,1
+18353,Dominican University of California,60,FALSE,0
+1305,WHO Press,49,FALSE,0
+5433,UCL Press,46,TRUE,0.97826087474823
+10593,Swarthmore College,41,TRUE,0
+3180,Amsterdam University Press,32,TRUE,1
+14238,Williams College,29,FALSE,0
+22141,CALNESTOR Knowledge Solutions Private Limited,28,TRUE,0
+11647,UNESCO-IHP,27,TRUE,0.9629629850387573
+22957,Physiome Incorporated,18,TRUE,1
+9479,Carleton University,15,TRUE,0
+3444,Smithsonian Institution,12,TRUE,1
+8875,ABEC Publicacoes,11,TRUE,1
+5801,The Hong Kong University of Science and Technology Library,9,FALSE,0
+7597,Brepols Publishers NV,8,TRUE,1
+9621,PubPub,7,FALSE,0
+5570,IUScholarWorks,5,TRUE,0
+11420,Internet2,4,FALSE,0
+19315,OpenCiencia,3,TRUE,0
+15947,Boise State University,2,TRUE,0
+2258,Pensoft Publishers,2,TRUE,1
+14076,University of New Hampshire Libraries,2,FALSE,0
+22755,University of the Free State,2,TRUE,1
+2986,University of South Florida Libraries,1,TRUE,0
+5303,Electronic Enlightenment Project,1,FALSE,0
+10770,Universitatsverlag Gottingen,1,TRUE,0
+17333,Society of Psychoceramics,1,TRUE,0
+26493,Tree of Evolution,1,FALSE,0
+6735,University of Oklahoma Libraries,1,TRUE,0
