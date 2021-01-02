@@ -7,7 +7,6 @@ Data are used in Google Sheets to create a chart of the proportion of open abstr
 Data are also collected monthly for book chapters and preprints.
 
 * *current = current year and 2 previous years*
-
 ![I4OA monthly chart](figures/I4OA_chart_current.svg)
 
 
