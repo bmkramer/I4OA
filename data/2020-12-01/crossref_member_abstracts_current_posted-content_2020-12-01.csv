@@ -1,0 +1,68 @@
+id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_type
+246,Cold Spring Harbor Laboratory,99175,TRUE,0.9990622401237488
+3145,Copernicus GmbH,88972,TRUE,0.34910982847213745
+8761,Research Square,74526,TRUE,0.9994230270385742
+15934,Center for Open Science,63319,TRUE,0.9840806126594543
+22980,Morressier,27141,FALSE,0
+316,American Chemical Society (ACS),22481,TRUE,0.6740358471870422
+1968,MDPI AG,16074,TRUE,0.9944630861282349
+1010,JMIR Publications Inc.,9495,TRUE,0.9601895809173584
+9829,"Authorea, Inc.",8213,TRUE,0.05393887683749199
+311,Wiley,4409,TRUE,0
+4443,PeerJ,3706,TRUE,0.9989206790924072
+11224,Victoria University of Wellington Library,2129,TRUE,1
+263,Institute of Electrical and Electronics Engineers (IEEE),2123,TRUE,0.9981158971786499
+6438,California Digital Library (CDL),1891,TRUE,0.10312004387378693
+179,SAGE Publications,1666,TRUE,1
+237,The Company of Biologists,838,TRUE,0
+1167,American Diabetes Association,801,TRUE,1
+257,Geological Society of America,769,TRUE,1
+56,Cambridge University Press (CUP),639,TRUE,0
+242,CABI Publishing,589,TRUE,0.9694397449493408
+530,FapUNIFESP (SciELO),482,TRUE,0
+5403,ScienceOpen,375,TRUE,0.984000027179718
+2086,Beilstein Institut,294,TRUE,1
+11875,Even3,281,FALSE,0
+18353,Dominican University of California,213,FALSE,0
+26239,Applied Energy Innovation Institute (AEii),202,FALSE,0
+77,The Electrochemical Society,173,TRUE,0.9826589822769165
+8607,Federal Reserve Bank of Minneapolis,127,FALSE,0
+9794,Society for Artistic Research,124,FALSE,0
+8945,Rhodes University,121,TRUE,1
+10196,NPG Publishing,118,TRUE,1
+8634,Russian Research Anti-Plague Institute Microbe,102,TRUE,0.9901960492134094
+4923,Open Book Publishers,87,TRUE,0
+3180,Amsterdam University Press,86,TRUE,1
+16838,"PoolText, Inc",79,FALSE,0
+6626,The University of Iowa,71,TRUE,0.6478873491287231
+8901,AIJR Publisher,71,TRUE,0.8450704216957092
+11508,"James P. Adams Library, Rhode Island College",64,TRUE,1
+5433,UCL Press,50,TRUE,0.9800000190734863
+1305,WHO Press,47,FALSE,0
+10593,Swarthmore College,41,TRUE,0
+14238,Williams College,29,FALSE,0
+22141,CALNESTOR Knowledge Solutions Private Limited,29,TRUE,0
+11647,UNESCO-IHP,27,TRUE,0.9629629850387573
+22957,Physiome Incorporated,21,TRUE,1
+9621,PubPub,19,FALSE,0
+27991,Stichting OpenAccess Foundation,19,FALSE,0
+3444,Smithsonian Institution,18,TRUE,1
+9479,Carleton University,15,TRUE,0
+2258,Pensoft Publishers,12,TRUE,1
+8875,ABEC Publicacoes,11,TRUE,1
+5801,The Hong Kong University of Science and Technology Library,9,FALSE,0
+7597,Brepols Publishers NV,8,TRUE,1
+5570,IUScholarWorks,5,TRUE,0
+19315,OpenCiencia,5,TRUE,0
+28319,Centro de Investigacion sobre Desarrollo Humano y Sociedad (Coideso),5,TRUE,0
+11420,Internet2,4,FALSE,0
+26493,Tree of Evolution,4,FALSE,0
+15947,Boise State University,2,TRUE,0
+24587,Universitatsbibliothek Kiel,2,TRUE,1
+14076,University of New Hampshire Libraries,2,FALSE,0
+22755,University of the Free State,2,TRUE,1
+2986,University of South Florida Libraries,1,TRUE,0
+5303,Electronic Enlightenment Project,1,FALSE,0
+17333,Society of Psychoceramics,1,TRUE,0
+6735,University of Oklahoma Libraries,1,TRUE,0
+27947,The Stacks Lib AAC,1,FALSE,0
