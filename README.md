@@ -8,6 +8,9 @@ Data are also collected monthly for book chapters and preprints.
 
 * *current = current year and 2 previous years*
 
-![](figures/I4OA_chart_current.png)
+![I4OA monthly chart](figures/I4OA_chart_current.png)
+
+![I4OA monthly chart](figures/I4OA_chart_current.svg)
+<img src="figures/I4OA_chart_current.svg">
 
 
