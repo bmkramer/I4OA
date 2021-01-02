@@ -8,6 +8,6 @@ Data are also collected monthly for book chapters and preprints.
 
 * *current = current year and 2 previous years*
 
-![](https://docs.google.com/spreadsheets/d/e/2PACX-1vRATWFR5PHWExFDsyEJDTcJraSPI9KQlWHjb4TDZVuR2n9F7Iu6ebUQ0_eeEOGjlxLcn-bTT3SVkV20/pubchart?oid=710819014)
+![](figures/I4OA_chart_current.png)
 
 
