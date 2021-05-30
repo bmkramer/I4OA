@@ -1,7 +1,5 @@
 # I4OA - monthly statistics
 
-[test 20210528]
-
 Monthly statistics for Initiative for Open Abstracts (I4OA)
 
 Querying Crossref API for proportion of current* journal articles with abstract, per Crossref member ID.
