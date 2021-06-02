@@ -11,7 +11,7 @@ library(tidyverse)
 library(rcrossref)
 
 #set email in Renviron
-file.edit("~/.Renviron")
+#file.edit("~/.Renviron")
 #add email address to be shared with Crossref:
 #crossref_email = name@example.com
 #save the file and restart your R session
