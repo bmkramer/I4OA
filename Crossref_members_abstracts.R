@@ -10,6 +10,11 @@
 library(tidyverse)
 library(rcrossref)
 
+#when error message `content-type` == "application/json;charset=UTF-8" is not TRUE, reinstall dev version of rcrossref
+# detach("package:rcrossref", unload = TRUE)
+# remotes::install_github("ropensci/rcrossref")
+# library(rcrossref)
+
 # set email in Renviron
 # file.edit("~/.Renviron")
 # add email address to be shared with Crossref:
