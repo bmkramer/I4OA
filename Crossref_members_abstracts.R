@@ -174,3 +174,7 @@ toFile(type, data, path)
 type <- "book-chapter"
 data <- extractData_type(res, type)
 toFile(type, data, path)
+
+type <- "monograph"
+data <- extractData_type(res, type)
+toFile(type, data, path)
