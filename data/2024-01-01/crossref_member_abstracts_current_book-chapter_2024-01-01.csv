@@ -1,0 +1,840 @@
+id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_type
+297,Springer Science and Business Media LLC,817178,TRUE,0.02654990711937913
+301,Informa UK Limited,423345,TRUE,5.385678347447118e-4
+1121,JSTOR,376245,FALSE,0
+286,Oxford University Press (OUP),360989,TRUE,0.189712151893825
+374,Walter de Gruyter GmbH,245333,TRUE,0
+78,Elsevier BV,139915,TRUE,0
+56,Cambridge University Press (CUP),63938,TRUE,0
+2984,Bloomsbury Academic,52218,TRUE,0
+3821,Nomos Verlag,45976,TRUE,0
+50,Brill,36685,TRUE,0
+2432,IGI Global,34821,TRUE,0.9996840986760863
+2918,Edward Elgar Publishing,31077,TRUE,0.003925732857096888
+165,Bristol University Press,23420,TRUE,0.1488044406490179
+1574,Atlantis Press SARL,20025,TRUE,0.008689138576779026
+2399,OpenEdition,19525,FALSE,0
+219,World Scientific Pub Co Pte Ltd,18914,TRUE,0
+5471,Transcript Verlag,17085,TRUE,0.04969271290605795
+16089,Brill Deutschland GmbH,15513,TRUE,0
+140,Emerald,15146,TRUE,0
+2273,CAIRN,14154,TRUE,0.01038575667655786
+7834,United Nations Publications,13506,FALSE,0
+9818,Atena Editora Edição de Livros Ltda,12425,TRUE,0
+3774,IntechOpen,12144,TRUE,0.9851778656126482
+7832,NYU Press,10807,TRUE,0.02803738317757009
+194,Georg Thieme Verlag KG,10744,TRUE,0.01824274013402829
+408,University of California Press,10196,TRUE,0.003334641035700275
+6055,Verlag C.H.Beck oHG,10165,TRUE,0
+281,MIT Press,8800,TRUE,0
+11875,Even3,7921,TRUE,0.1905062492109582
+1963,Organisation for Economic Co-Operation and Development (OECD),7837,FALSE,0
+5164,Yale University Press,7774,TRUE,0.09981991252894264
+4694,Sciencedomain International,6966,TRUE,0
+1696,University of Toronto Press Inc. (UTPress),6838,TRUE,0
+965,Bentham Science Publishers Ltd.,6826,TRUE,0.5675358921769704
+4359,Columbia University Press,6707,FALSE,0
+73,Duke University Press,6580,TRUE,0.1162613981762918
+7437,IOS Press,6498,TRUE,0.9873807325330871
+1697,Carl Hanser Verlag,6426,FALSE,0
+24862,Editora Cientifica Digital,6069,TRUE,0.4560883176800132
+20809,Rutgers University Press,5561,FALSE,0
+4230,Manchester University Press,4897,TRUE,0
+793,Springer Publishing Company,4496,TRUE,0
+2652,Harvard University Press,4383,FALSE,0
+12323,World Trade Organization,4292,FALSE,0
+179,SAGE Publications,4134,TRUE,0
+250,EDP Sciences,3916,TRUE,0
+1931,Edinburgh University Press,3793,TRUE,0.8022673345636699
+266,IOP Publishing,3746,TRUE,0
+19460,Haufe-Lexware GmbH and Co. KG,3733,TRUE,0
+4802,Verlag Dr. Otto Schmidt,3574,FALSE,0
+292,Royal Society of Chemistry (RSC),3551,TRUE,0.6646015206983948
+7597,Brepols Publishers NV,3550,TRUE,0
+242,CABI Publishing,3229,TRUE,0.1666150510994116
+34671,Seven Events,3155,TRUE,0.7670364500792393
+27363,AYA Editora,3023,FALSE,0
+1757,John Benjamins Publishing Company,2929,TRUE,0.2465005121201775
+3287,The Pennsylvania State University Press,2908,TRUE,0
+530,FapUNIFESP (SciELO),2797,TRUE,0
+4434,Cornell University Press,2784,TRUE,0.7176724137931034
+21860,Editora Poisson,2642,TRUE,0
+265,Institution of Engineering and Technology (IET),2641,TRUE,0
+16537,Pimenta Cultural,2615,TRUE,7.648183556405354e-4
+28402,VDI Verlag GmbH,2590,TRUE,0
+4759,University of Pennsylvania Press,2542,FALSE,0
+23658,Editora Conhecimento Livre,2541,FALSE,0
+200,University of Chicago Press,2497,FALSE,0
+11982,Publishing House Baltija Publishing,2497,TRUE,0.1425710853023628
+38456,Editora Pasteur,2471,TRUE,4.046944556859571e-4
+16987,Vervuert Verlag oHG,2457,TRUE,0
+15,American Psychological Association (APA),2418,FALSE,0
+417,American Academy of Pediatrics (AAP),2377,TRUE,0.08876735380732015
+29384,Editora Amplla,2366,TRUE,4.22654268808115e-4
+27115,Editora e-Publicar,2278,FALSE,0
+3180,Amsterdam University Press,2176,TRUE,0.9145220588235294
+6036,RWS Verlag GmbH,2136,TRUE,0
+12270,Psychosozial-Verlag GmbH and Co. KG,2048,TRUE,0
+9289,"Channel View Publications, Ltd.",2035,TRUE,0
+31705,Brill Osterreich GmbH,2028,FALSE,0
+28043,Editora Dialetica,2018,FALSE,0
+36593,Frank & Timme GmbH,1850,TRUE,0
+33854,Scientia Solucoes Digitais LTDA,1832,TRUE,0.3155021834061135
+2165,Liverpool University Press,1803,TRUE,0.8191902384914032
+23521,Erich Schmidt Verlag GmbH & Co. KG,1742,TRUE,0
+351,Society for Industrial & Applied Mathematics (SIAM),1717,FALSE,0
+37787,Özgür Yayınları,1642,TRUE,0.9945188794153471
+4442,University of Texas Press,1631,FALSE,0
+26354,Rfb Editora,1573,FALSE,0
+14,American Mathematical Society (AMS),1493,TRUE,0
+3948,GN1 Sistemas e Publicacoes Ltd.,1483,TRUE,0
+23025,Editora Inovar,1463,FALSE,0
+28327,Arco Editores,1461,FALSE,0
+3102,University of North Carolina Press (publisher),1409,TRUE,0.6912704045422285
+16894,Gorgias Press LLC,1348,FALSE,0
+112,ISEAS - Yusof Ishak Institute,1323,FALSE,0
+30764,South Florida Publishing LLC,1306,TRUE,0
+4923,Open Book Publishers,1299,TRUE,0.50423402617398
+22549,Fundacao Fenix,1284,TRUE,0
+5425,University Press of Mississippi,1280,TRUE,0.71171875
+5556,Michigan State University Press,1244,TRUE,0
+3104,"Editora Edgard Blucher, Ltda.",1229,TRUE,0
+38192,All Sciences Proceedings,1185,TRUE,8.438818565400844e-4
+16613,Realize Eventos Cientificos e Editora LTDA,1176,TRUE,0.9982993197278912
+39342,University of British Columbia Press,1172,FALSE,0
+558,World Bank,1159,FALSE,0
+358,Intellect,1139,TRUE,0.07199297629499561
+316,American Chemical Society (ACS),1085,TRUE,0
+189,SPIE-Intl Soc Optical Eng,1079,FALSE,0
+25375,International Science Group,1062,TRUE,0
+26411,ICSP - New Science,1051,FALSE,0
+12144,Edizioni Ca Foscari,1039,TRUE,0.7160731472569779
+4211,University of Warsaw,998,TRUE,0.1402805611222445
+3380,Fordham University Press,990,TRUE,0.804040404040404
+2580,AOSIS,971,TRUE,0
+21000,Verlag Julius Klinkhardt GmbH & Co. KG,954,TRUE,0.1865828092243187
+4618,CEU Educational-Service Non-profit LLC,936,TRUE,0
+317,AIP Publishing,916,TRUE,0.6277292576419214
+30674,Wissenschaftliche Verlagsgesellschaft mbH,904,TRUE,0
+10443,Editora CRV,888,FALSE,0
+3910,University Press of Colorado,882,FALSE,0
+7806,"Faculty of Philology, University of Belgrade",864,FALSE,0
+9752,ANU Press,837,FALSE,0
+10341,Princeton University Press,823,TRUE,0.6512758201701094
+26840,V & V Editora,812,TRUE,0
+945,IWA Publishing,791,TRUE,0.2085967130214918
+21822,Firenze University Press,771,TRUE,0.9909208819714656
+9495,British Small Animal Veterinary Association,769,FALSE,0
+26693,Editora Omnis Scientia,765,FALSE,0
+32105,Agron Food Academy,738,TRUE,0.4363143631436314
+4815,DETAIL Business Information GmbH,734,FALSE,0
+2869,Editora Cubo,721,TRUE,0
+23781,Editora Artemis,703,TRUE,0
+3749,University Press of Florida,688,TRUE,0.7281976744186047
+30151,Smt Vimla Devi Education Society,681,TRUE,0.7224669603524229
+8044,Uniwersytet Lodzki (University of Lodz),671,TRUE,0.5782414307004471
+8939,ISTE Group,643,TRUE,1
+81,European Respiratory Society (ERS),635,TRUE,0
+3673,University of Illinois Press,623,TRUE,0.6837881219903692
+5084,Ksiegarnia Akademicka Sp. z.o.o.,622,TRUE,0.7942122186495177
+735,Thomas Telford Ltd.,613,TRUE,0
+23908,University Bordeaux Montaigne,601,TRUE,0
+8434,Wits University Press,589,TRUE,0
+5302,Harrassowitz Publishing House,576,TRUE,0.001736111111111111
+8053,University of Maribor,527,TRUE,0.9829222011385199
+30,American Society of Civil Engineers (ASCE),524,TRUE,0
+21873,Liha-Pres,517,TRUE,0.02514506769825919
+26283,Invepy y Asociados S.C.,504,TRUE,0
+2673,European Mathematical Society - EMS - Publishing House GmbH,501,FALSE,0
+9951,Cappelen Damm AS - Cappelen Damm Akademisk,496,TRUE,1
+22151,Faculdade de Filosofia e Ciências,489,TRUE,0
+127,S. Karger AG,487,TRUE,0
+17931,MWV Medizinisch Wissenschaftliche Verlagsgesellschaft mbH and Co. KG,486,TRUE,0
+3895,British Academy,482,TRUE,0.7178423236514523
+11192,Istanbul University,479,FALSE,0
+37923,Editora Academic,479,TRUE,0.0918580375782881
+8180,Burleigh Dodds Science Publishing Limited,471,TRUE,1
+320,Association for Computing Machinery (ACM),466,TRUE,0
+27836,Epitaya Propriedade Intelectual e Editora LTDA,464,FALSE,0
+10770,Universitatsverlag Gottingen,461,TRUE,0
+22676,University of Bern,461,TRUE,0
+9747,A. M. Gorky Institute of World Literature of the Russian Academy of Sciences,456,TRUE,0.9956140350877193
+31511,Turkish Academy of Sciences,454,TRUE,1
+3827,University Press of Kentucky,443,TRUE,0.7607223476297968
+25683,Pantanal Editora,441,FALSE,0
+381,ASTM International,437,TRUE,0
+35044,SCISAUDE,431,TRUE,0.06960556844547564
+30480,Encontrografia Editora Ltda,429,TRUE,0
+4169,Franco Angeli,428,TRUE,0
+25667,Editions des archives contemporaines,425,TRUE,0.8729411764705882
+894,American Society of Health-System Pharmacists,423,FALSE,0
+844,American Public Health Association,420,TRUE,0
+5739,Coimbra University Press,416,TRUE,0.7644230769230769
+16438,Publishing House Sreda,414,TRUE,0.7657004830917874
+9283,University of Minho,408,TRUE,0.02696078431372549
+27242,Amplamente Cursos e Formacao Continuada,405,FALSE,0
+24095,WTM-Verlag,398,TRUE,0.9924623115577889
+22561,Editora Itacaiunas,393,FALSE,0
+23,American Pharmacists Association,391,FALSE,0
+30656,Editora Dialogos,389,TRUE,0
+257,Geological Society of America,386,TRUE,0.9430051813471503
+11033,University of Primorska Press,373,TRUE,0.032171581769437
+6464,Pontifical University of John Paul II in Krakow,368,TRUE,0.2690217391304348
+23835,The WAC Clearinghouse,365,FALSE,0
+34610,Fagbokforlaget Vigmostad & Bjorke,353,TRUE,0
+33,ASME International,351,TRUE,0.8148148148148148
+18453,Geotar-Media Publishing Group,346,TRUE,0.02890173410404624
+16235,Institute of Slavic Studies of the Russian Academy of Sciences,341,TRUE,0.5219941348973607
+10140,Narr Francke Attempto Verlag GmbH + Co. KG,335,TRUE,0
+26887,Editora In Vivo,333,FALSE,0
+9982,Centro Latino-Americano de Estudos em Cultura - CLAEC,322,TRUE,0
+26730,"Revista Praticas Educativas, Memorias e Oralidades",314,TRUE,0
+1378,DAAAM International,301,TRUE,0
+37003,Editora Licuri,299,TRUE,0.8394648829431438
+25732,Universitatsbibliothek Bamberg,297,TRUE,0.1144781144781145
+7352,Universidade da Coruna,296,TRUE,0.9695945945945946
+11170,Pisa University Press,292,FALSE,0
+25876,Editora Ilustracao,292,TRUE,0
+10675,Escuela Superior de Guerra,280,TRUE,0.2357142857142857
+20417,Stricto Sensu Editora,260,FALSE,0
+31476,Literacia Cientifica Editora & Cursos,258,TRUE,0.3449612403100775
+9191,"Materials Research Forum, LLC",252,TRUE,0.996031746031746
+38378,"Dykinson, S.L.",243,TRUE,0.00411522633744856
+2363,The Research Center of the Slovenian Academy of Sciences and Arts (ZRC SAZU),242,TRUE,0
+18045,Revista Cientifica Multidisciplinar Nucleo Do Conhecimento,242,TRUE,1
+1387,American Institute of Aeronautics and Astronautics (AIAA),237,TRUE,0
+3798,Hong Kong University Press,234,TRUE,0.7264957264957265
+5307,National Research and Innovation Agency,233,TRUE,0.5879828326180258
+27946,Universidad de los Andes - Ediciones Uniandes,232,TRUE,0
+8249,Federal Center of Theoretical and Applied Sociology of the Russian Academy of Sciences (FCTAS RAS),231,TRUE,0.1774891774891775
+230,American Psychiatric Association Publishing,229,TRUE,0
+7604,Scandinavian University Press / Universitetsforlaget AS,229,FALSE,0
+28470,United Research Forum,226,FALSE,0
+28677,Universidade Federal de Pernambuco,223,TRUE,0.0179372197309417
+4811,Stanford University Press,222,TRUE,0.7252252252252251
+3933,Lockwood Press,221,TRUE,0.1176470588235294
+30757,"Journal of Education, Science and Health - JESH",221,TRUE,0
+4512,Russell Sage Foundation,220,TRUE,0
+28394,Periodicojs,215,TRUE,0.3162790697674419
+9324,Eötvös Loránd University,204,TRUE,0
+14553,ASM International,204,TRUE,1
+23502,Vide Leaf,204,FALSE,0
+28627,Uniedusul Editora,199,FALSE,0
+36783,World of Science,198,FALSE,0
+31230,Institute of Archaeology of the Russian Academy of Sciences,196,TRUE,0
+432,Now Publishers,194,FALSE,0
+35231,Instituto de Neurologia de Curitiba,190,FALSE,0
+6272,Wroclaw University of Economics and Business,188,TRUE,0
+11069,OAPEN Foundation,186,TRUE,0.005376344086021505
+3111,AVES YAYINCILIK A.Ş.,183,TRUE,1
+28892,DP Express-obyava,183,TRUE,0
+38069,Instituto Quero Saber,181,TRUE,0
+8050,AFRICAN SUN MeDIA,180,TRUE,0
+21203,Exon Publications,179,FALSE,0
+11725,Budapesti Gazdasagi Egyetem,176,TRUE,0.9147727272727273
+10728,Universidad del Valle,174,TRUE,0
+16914,Universidad Mariana,173,TRUE,0.9942196531791908
+26325,"Sachsische Landesbibliothek, Staats- und Universitatsbibliothek Dresden",172,TRUE,0.01162790697674419
+24947,University Library in Kragujevac,169,TRUE,1
+39071,Grupo Editorial Biblioteca,167,TRUE,0
+11924,Navegando Publicacoes,164,FALSE,0
+31155,Bookerfield,163,TRUE,1
+35597,Institute of Comparative Law,163,TRUE,0.950920245398773
+5067,Editorial Universidad de Sevilla,160,TRUE,1
+9621,PubPub,160,FALSE,0
+31474,Magyarsagkutato Intezet,157,TRUE,0.9936305732484076
+14482,British Psychological Society,156,TRUE,0
+1665,Scientific Societies,152,TRUE,0
+31242,Wydawnictwo Naukowe PWN SA,152,FALSE,0
+36938,FCiências.ID - Associação para a Investigação e Desenvolvimento de Ciências,150,FALSE,0
+5965,University Library of Pecs,149,TRUE,0.6375838926174497
+24587,Universitatsbibliothek Kiel,148,TRUE,1
+31127,Akademia Techniczno-Humanistyczna w Bielsku-Bialej,148,FALSE,0
+7994,Poznan University of Economics,147,TRUE,0.8299319727891156
+34096,American Registry of Pathology,147,TRUE,0
+38007,Red Latinoamericana de Investigación Contemporánea S.A.S.,147,TRUE,0
+27000,Editora Nomada,145,TRUE,0
+6950,"Faculty of Humanities and Social Sciences, University of Zagreb",144,TRUE,0
+6601,Stockholm University Press,143,TRUE,0.4615384615384615
+9784,Universidad Nacional Abierta y a Distancia,143,TRUE,0.1958041958041958
+28122,Morula Editorial,142,TRUE,0
+26364,Khamai Foundation,140,TRUE,1
+28463,"Lestu Editora, Grafica e Consultoria Ltda.",140,TRUE,0.2071428571428571
+32390,Milano University Press,139,TRUE,0.1438848920863309
+5722,Research-Publishing.net,138,TRUE,0.9927536231884058
+12398,FSBEO HPE Moscow State University of Railway Engineering (MIIT),134,TRUE,1
+32521,Central European Academic Publishing,134,TRUE,0.7835820895522388
+23720,Altai State Pedagogical University,133,TRUE,1
+28495,Associacao Brasileira de Enfermagem,132,TRUE,0.09090909090909091
+32440,Texto e Contexto Editora,132,TRUE,0.8409090909090909
+329,International Union of Crystallography (IUCr),131,TRUE,0
+9479,Carleton University,131,TRUE,0
+22117,Ludomedia Unipessoal Lda,129,TRUE,0.9612403100775194
+32956,utb GmbH,129,TRUE,0
+37384,The Indianapolis Museum of Art at Newfields,129,FALSE,0
+7673,BIBLIO-GLOBUS Publishing House,127,FALSE,0
+8707,University of Sussex,126,TRUE,0
+16852,International Journal Education and Teaching,126,TRUE,0.7777777777777778
+38836,wbv Publikation,126,TRUE,0
+31179,punctum books,125,TRUE,0.424
+6283,Sotsial'no-Gumanitarnoe Znanie Publishing House,123,FALSE,0
+21102,Soproni Egyetem Kiado,123,TRUE,0.9024390243902439
+1029,International Ocean Discovery Program (IODP),118,FALSE,0
+29737,"Nova Science Publishers, Inc.",118,TRUE,0.02542372881355932
+33866,Puerto Madero Editorial Académica,118,TRUE,0.2372881355932203
+10370,Universidad Autonoma Metropolitana,117,TRUE,1
+3285,"Ubiquity Press, Ltd.",115,TRUE,0.2869565217391304
+8100,Sistema de Bibliotecas PUCP,115,TRUE,1
+26181,Goce Delchev University - Shtip,115,FALSE,0
+425,Akademiai Kiado Zrt.,113,TRUE,0
+1968,MDPI AG,112,TRUE,0
+5351,Ediciones Universidad de Salamanca,112,TRUE,0.3125
+26649,Madl Ferenc Osszehasonlito Jogi Intezet,112,TRUE,0.08928571428571429
+19989,Universidade Estadual de Alagoas,111,TRUE,0
+20913,MARES EDITORES,111,TRUE,0
+33090,Comite Brasileiro de Historia da Arte,110,FALSE,0
+426,Equinox Publishing,109,TRUE,0.7339449541284404
+16383,LSE Press,109,TRUE,0.1284403669724771
+25722,Wallstein Verlag GmbH,109,TRUE,0
+9634,University of Latvia,108,TRUE,0.7222222222222222
+13868,University of Johannesburg,108,TRUE,0.9907407407407407
+24514,Kola Science Centre,108,TRUE,0.1481481481481481
+28676,Editora ZH4,108,TRUE,0.9166666666666667
+10001,"Goodfellow Publishers, Ltd.",107,TRUE,1
+24850,Open Books at Lund University,106,TRUE,0
+24869,University of Nis - Faculty of Philosophy,106,TRUE,0.9811320754716981
+31467,Editora Creative,104,FALSE,0
+32276,Soft Computing Research Society,104,TRUE,1
+35371,Editconcept,102,TRUE,1
+25627,OKTAN PRINT s.r.o.,101,TRUE,0.9801980198019802
+5465,Penguin Random House Verlagsgruppe GmbH,99,TRUE,0
+16825,Lincoln University College,99,TRUE,0.7171717171717172
+3846,Masaryk University Press,98,TRUE,0.4285714285714286
+37847,Globethics Publications,98,TRUE,0.3877551020408163
+9764,Revista Juventude e Politicas Publicas,97,TRUE,0.1134020618556701
+14882,New Delhi Publishers,97,TRUE,0
+34616,Editora Science,97,TRUE,1
+22118,World Institute for Advanced Research and Science,96,TRUE,0
+23180,ICI Berlin,96,TRUE,0.8541666666666667
+14109,Radboud University,95,TRUE,0.3684210526315789
+5401,University of Szeged,94,TRUE,0.4042553191489362
+6218,Private Company Technology Center,94,TRUE,0
+11895,Sociedad Mexicana de Historia de la Educacion AC,94,TRUE,0.1702127659574468
+1543,American School of Classical Studies at Athens (ASCSA),93,TRUE,0
+5724,Editorial Universidad Catolica de Colombia,93,TRUE,0.9139784946236559
+7091,Verlag Barbara Budrich GmbH,93,TRUE,0.1397849462365591
+27616,University of Exeter Press,93,TRUE,0
+21583,Progettinrete Srl,91,TRUE,0.9450549450549451
+27560,Ribeirao Grafica e Editora,90,FALSE,0
+29305,Pedro & Joao Editores LTDA M.E.,90,FALSE,0
+33468,Universite de Limoges,89,TRUE,0
+32937,Editora SORIAN,87,FALSE,0
+18479,Eszterhazy Karoly Egyetem,86,TRUE,0.127906976744186
+20793,ECORFAN,84,TRUE,1
+27023,Deutscher Arzteverlag GmbH,84,TRUE,0
+28320,E-papers Servicos Editoriais Ltda,84,FALSE,0
+860,Society for Sedimentary Geology,82,TRUE,0.4024390243902439
+1167,American Diabetes Association,82,TRUE,0.5731707317073171
+35076,Poznanskie Towarzystwo Przyjaciol Nauk,82,FALSE,0
+11155,Corporacion Minuto de Dios University - UNIMINUTO,81,TRUE,1
+28015,Associacao Brasileira de Antropologia,81,TRUE,1
+30390,EDITORA TOTALBOOKS,81,TRUE,0
+37467,Editura Tehnopress,81,TRUE,0
+4545,Bridget Williams Books,80,TRUE,0
+28622,DEE International Publishing Lda,80,TRUE,1
+9354,Corporacion Universitaria del Caribe - CECAR,79,TRUE,0
+20543,Editora Sertaocult,79,TRUE,1
+21497,The International Federation for Structural Concrete,79,FALSE,0
+3742,Sociedade Brasileira de Computacao - SB,78,TRUE,0
+24915,Federal State Institution of Science Institute of Linguistics of the Russian Academy of Sciences,78,TRUE,0
+26266,Archaeopress Publishing Ltd,78,TRUE,0.9358974358974359
+18616,Helsinki University Press,77,TRUE,0.9350649350649352
+460,American Fisheries Society,75,TRUE,0.2533333333333333
+5286,"Alcide De Gasperi University of Euroregional Economy in Jozefow, Poland",75,TRUE,0.4933333333333333
+1193,Association for the Advancement of Medical Instrumentation (AAMI),74,TRUE,0
+6588,University of Westminster Press,74,TRUE,0.8243243243243243
+6902,Universidad EAFIT,74,TRUE,0.1486486486486486
+30971,Pelagic Publishing,74,TRUE,0
+39458,Universidad Nacional Experimental Sur del Lago &quot;Jesús María Semprum&quot; (UNESUR),74,TRUE,0.9459459459459459
+9452,Makadam,73,TRUE,0
+12595,Universidad Internacional de Andalucia,73,TRUE,0
+25931,Centro de Investigaciones en Ciencias Sociales y Humanidades desde America Latina,73,TRUE,0.9863013698630138
+11483,The Duke Clinical Research Institute,72,FALSE,0
+186,Society of Exploration Geophysicists,70,TRUE,0
+1807,White Horse Press,70,TRUE,0.1428571428571429
+25237,Instituto de Pesquisa Economica Aplicada - IPEA,70,TRUE,0
+12297,GITO mbH Verlag,69,TRUE,1
+32562,Universitas-Gyor,69,TRUE,0.9130434782608696
+634,Modern Language Association (MLA),68,TRUE,0
+15204,Waxmann,68,TRUE,0.1029411764705882
+9782,Tikinet Edicao Ltda. - EPP,67,TRUE,0.4328358208955224
+35850,ARA Editora,67,FALSE,0
+39469,"Scientific Center of Mining Geology, Geoecology and Infrastructure Development of NAS of Ukraine",67,TRUE,0
+9298,Editora Letra1,66,FALSE,0
+28397,Revista Multidisciplinar em Saude,66,TRUE,0.5
+28869,University of Ljubljana,66,TRUE,0
+33397,Consejo Latinoamericano de Ciencias Sociales,66,TRUE,0
+4861,Galaxy Science,65,TRUE,0.8
+22518,Technoarete Research and Development Association,65,TRUE,0.9846153846153846
+34137,Paulo Martins Servicos Editoriais e Comercio de Livros Ltda,65,FALSE,0
+39367,Alerta Publishing House,65,TRUE,0.5846153846153846
+8736,Asociacion Espanola de Geografia,64,TRUE,0
+16113,"ITESO, A.C.",64,TRUE,0.78125
+17914,Publishing House Helvetica (Publications),64,TRUE,0
+27362,Vecher Educacao e Comunicacao Ltda,64,TRUE,0
+29297,LIT Verlag,64,TRUE,0.8125
+6142,University of Ostrava,63,TRUE,0.9682539682539683
+7767,Appris Editora e Livraria Eireli - ME,63,FALSE,0
+861,Society of Petroleum Engineers (SPE),62,TRUE,0
+5403,ScienceOpen,62,TRUE,0.3870967741935484
+9096,Saint Petersburg State University,62,TRUE,0.7096774193548387
+22140,The Forum on Education Abroad,62,TRUE,0
+26494,"INET-md, Faculdade de Motricidade Humana, Universidade de Lisboa",62,TRUE,0
+5994,Led Edizioni Universitarie,61,TRUE,0.4754098360655738
+11647,UNESCO,61,TRUE,0
+27835,Pro-Metrics,61,TRUE,0.6885245901639344
+2,American Association of Petroleum Geologists AAPG/Datapages,60,FALSE,0
+26833,Alianza de Investigadores Internacionales SAS,60,TRUE,1
+35498,Universo DOC Ltda.,59,TRUE,1
+109,Institute for Operations Research and the Management Sciences (INFORMS),58,TRUE,0
+35873,Leykam Buchverlagsgesellschaft m.b.H. & Co KG,58,TRUE,0
+6805,CIESPAL,57,TRUE,0.7543859649122807
+11670,Castledown Publishers,57,TRUE,0.9824561403508772
+17306,Anu Books,57,FALSE,0
+11058,LLC Perspectiva,56,TRUE,0.9107142857142857
+33244,Editora Arquetipos Ltda,56,FALSE,0
+4687,Akademizdatcenter Nauka,55,TRUE,1
+30083,Slavica Publishers,55,TRUE,0
+34150,Escola Superior da Magistratura do Maranhao,55,TRUE,0
+36030,Universidad La Salle Oaxaca,55,TRUE,0.4
+3983,University of Huddersfield Press,54,TRUE,0.3518518518518519
+14118,Bibliotheque de l'Universite Laval,54,TRUE,0
+4398,AGH University Press,53,TRUE,0
+7875,Fundacao Educacional de Criciuma- FUCRI,53,TRUE,0
+32157,Arizona Center for Medieval and Renaissance Studies,53,TRUE,0
+38930,EdTech Books,53,TRUE,0.9622641509433962
+10187,Versus Verlag AG,52,TRUE,0
+36111,Publishing House 'Kluch-S',52,FALSE,0
+10,American Medical Association (AMA),51,TRUE,0
+38179,Edition Reichenberger,51,TRUE,0.9607843137254902
+39406,Asociacion Mexicana De Investigacion Interdisciplinaria A.C,51,TRUE,1
+7053,Universidade Tiradentes,50,TRUE,0
+7329,Aletheia - Associacao Cientifica e Cultural,50,TRUE,0.46
+8965,Nordic Academic Press,50,TRUE,0
+21218,Instituto Universitario de Innovacion Ciencia y Tecnologia Inudi Peru,50,TRUE,0.94
+22090,"Institute of Economics and Industrial Engineering, Siberian Branch",50,TRUE,0
+28464,University Library J. C. Senckenberg,50,TRUE,1
+25426,Staats- und Universitatsbibliothek Hamburg Carl von Ossietzky,49,TRUE,0.1836734693877551
+4571,Pontificia Universidad Catolica de Chile,48,TRUE,0
+9208,"Universidade do Porto, Faculdade de Letras",48,TRUE,0.6666666666666667
+27631,Candlin & Mynard ePublishing Limited,48,TRUE,0.9791666666666667
+418,"Osterreichische Akademie der Wissenschaften, Verlag",47,TRUE,0.2765957446808511
+26460,Facultad de Humanidades de la Universidad de San Carlos de Guatemala,47,TRUE,1
+33790,SDSN Association Inc.,47,TRUE,0.7659574468085106
+12273,Logos Verlag Berlin GmbH,46,TRUE,0.7391304347826086
+28710,Proud Pen Limited,46,TRUE,0.02173913043478261
+33546,Research and Educational Innovation Center of Social Transformations,46,TRUE,1
+36085,Editora Ecodidatica,46,TRUE,0.1521739130434783
+39238,Global Academy Yayincilik Ve Danişmanlik Hizmetleri Sanayi Ticaret Limited Şirketi,46,FALSE,0
+6051,Embry-Riddle Aeronautical University/Hunt Library,45,FALSE,0
+8875,ABEC Publicacoes,45,TRUE,0.3777777777777778
+9272,Simon Fraser University Library,45,TRUE,0
+9719,Instituto Tecnologico Metropolitano (ITM),45,TRUE,0
+17200,Universidad Catolica de Pereira,45,TRUE,1
+26875,GNT-Verlag GmbH,45,TRUE,0.9555555555555556
+27887,Artes Liberales sp. z o.o.,45,FALSE,0
+38774,Hipokratic Congress SL,45,FALSE,0
+11916,Institut za Savremenu Istoriju,44,TRUE,0.25
+12912,University of Helsinki Libraries,44,TRUE,0
+10024,Gobierno de Navarra,43,TRUE,0.7209302325581395
+21771,Santiago de Cali University,43,TRUE,1
+40016,Tampere University Press,43,TRUE,0.372093023255814
+7132,Universidad de Antioquia,42,TRUE,0
+7608,Universidad San Francisco De Quito,42,TRUE,0
+22838,High Rate Consulting Publications,42,TRUE,0.9285714285714286
+32457,El Colegio de Morelos,42,TRUE,0.02380952380952381
+34598,The Law Brigade Publishers,42,TRUE,0.6428571428571429
+38995,San International Scientific Publications,42,TRUE,0.7142857142857143
+6101,University of Bialystok,41,TRUE,0.975609756097561
+8605,Macedonian Academy of Sciences and Arts,41,FALSE,0
+10365,Universidad de Boyacá,41,TRUE,0
+31005,Karoli Gaspar Reformatus Egyetem,41,TRUE,0
+38950,"Sakarya University, Scientific Publications Coordinatorship",41,FALSE,0
+3614,Polish Botanical Society,40,TRUE,0
+10542,The Pedagogical University of Cracow/Uniwersytet Pedagogiczny w Krakowie,40,TRUE,1
+2894,Institut Za Lokalno Samoupravo in Javna Narocila Maribor,39,TRUE,1
+4941,"Ernst Reinhardt, GmbH & Co. KG",39,FALSE,0
+7948,Cardiff University Press,39,TRUE,0.3333333333333333
+9138,Universidad del Pacifico,39,TRUE,0
+19856,RISCOS - Associacao Portuguesa de Riscos Prevencao e Seguranca,39,TRUE,1
+23041,Editora BAGAI,39,FALSE,0
+32988,Universitatea de Arhitectura si Urbanism Ion Mincu,39,TRUE,0
+37853,Adaya Press,39,TRUE,1
+39265,AT Group Adrian Gorgosz,39,TRUE,0.07692307692307691
+3175,"University of Western Ontario, Western Libraries",38,TRUE,0.05263157894736842
+6535,EDIPUCRS,38,TRUE,1
+16422,RS Global Sp. z O.O.,38,TRUE,0.2631578947368421
+17289,Educational Research Institute,38,FALSE,0
+19699,Editora Universitaria EduFatecie,38,TRUE,0
+29269,Editora Colab,38,FALSE,0
+3984,Immanuel Kant Baltic Federal University,37,TRUE,0
+5117,Universidade de Estado do Rio de Janeiro,37,TRUE,0.4054054054054054
+7847,Universidade do Oeste de Santa Catarina,37,TRUE,0
+10618,Facultas Verlags- und Buchhandels AG,37,TRUE,0.5135135135135135
+31387,Illiberalism Studies Program,37,TRUE,0
+10493,FSAEIHE Far Eastern Federal University (FEFU),36,TRUE,0.9444444444444444
+11159,"Universidade Autonoma de Lisboa, EdiUal",36,TRUE,0
+11630,University of KwaZulu-Natal,36,TRUE,0
+23592,Wydawnictwo Uniwersytetu Wroclawskiego,36,TRUE,0.6944444444444444
+4927,Bogucki Wydawnictwo Naukowe,35,TRUE,0
+17803,Real Academia Galega,35,TRUE,0.6571428571428571
+19167,Wydawnictwo i Pracownia Archeologiczna PROFIL-ARCHEO,35,TRUE,0.9714285714285714
+28224,Digital Editora,35,TRUE,0.4285714285714286
+30828,International Visual Literacy Association,35,TRUE,0.9714285714285714
+35603,Centro Universitario Barao de Maua,35,TRUE,0.05714285714285714
+1529,Mathematical Society of Japan (Project Euclid),34,FALSE,0
+11172,Editora Scienza,34,FALSE,0
+12295,Kharkiv National University of Radioelectronics,34,TRUE,0.3823529411764706
+18505,Seismo Verlag AG,34,FALSE,0
+22489,Volodymyr Vynnychenko Central Ukrainian State Pedagogical University,34,TRUE,0
+25057,Publishing House Znanie-M,34,TRUE,0
+39993,Medicinski razgledi,34,TRUE,0
+9319,Croatian Academy of Sciences and Arts,33,FALSE,0
+10523,Schwabe Verlagsgruppe AG,33,TRUE,0
+17994,Paco Editorial,33,FALSE,0
+26316,ASP Editions,33,FALSE,0
+31194,Westend Verlag,33,TRUE,0
+34752,Editorial Grupo de Asesoria Empresarial y Academica,33,TRUE,1
+36888,Kustannusosakeyhtiö Vastapaino,33,TRUE,0
+613,Begell House,32,TRUE,0
+6001,Universiti Malaysia Pahang Publishing,32,TRUE,1
+11016,Maastricht University,32,TRUE,0.96875
+26075,CSMFL Publications,32,TRUE,1
+26307,Revista Teorico-Pratico,32,FALSE,0
+34829,Instituto Multiprofissional de Ensino,32,TRUE,0
+2686,Entomological Society of America,31,FALSE,0
+10198,Instituto Nacional de Estudos e Pesquisas Educacionais Anisio Teixeira,31,TRUE,0
+10411,Malaga University,31,TRUE,0
+11286,ABA Espana LLC,31,TRUE,1
+17416,Florida State University Libraries,31,TRUE,0
+24750,Saber CDCH-UCV,31,TRUE,1
+35519,Arab Regional Centre for World Heritage,31,TRUE,0.7096774193548387
+2393,University of Michigan Library,30,TRUE,0.7
+6469,Ural Federal University,30,TRUE,0
+9247,Universidad de Bogota Jorge Tadeo Lozano,30,TRUE,0
+9290,Escuela Militar de Cadetes Jose Maria Cordova,30,TRUE,0.6333333333333333
+9860,Skyfox Publishing,30,TRUE,1
+11271,T.F. Gorbachev Kuzbass State Technicak University,30,FALSE,0
+11935,Anais Educon UFS,30,FALSE,0
+25646,Hochschule der Kunste Bern HKB,30,TRUE,0.1666666666666667
+28674,University of Ontario Institute of Technology Library,30,TRUE,0
+30663,International Journal of Experimental Research and Review,30,TRUE,0
+47841,FahumSci,30,TRUE,0.1
+3884,Philosophy Documentation Center,29,TRUE,1
+8215,Instituto de Investigaciones Filologicas,29,TRUE,1
+10224,University of West Bohemia,29,TRUE,0.1379310344827586
+12933,University of Liege,29,TRUE,0.9310344827586207
+31027,The Art Institute of Chicago,29,TRUE,0.8620689655172414
+31525,Instituto de Investigacion y Capacitacion Profesional del Pacifico,29,TRUE,0
+32552,Wydawnictwo Episteme,29,FALSE,0
+38327,Gdynia Maritime University,29,TRUE,0
+16477,Editorial UFV,28,TRUE,0
+16667,Buryat Scientific Center SB RAS,28,FALSE,0
+24657,The Ordo Iuris Institute for Legal Culture,28,TRUE,0
+31099,Instytut Rozwoju Wsi i Rolnictwa Polskiej Akademii Nauk,28,TRUE,0
+6254,University of Rzeszow,27,TRUE,0.962962962962963
+7514,Pontificia Universidade Catolica de Goias -PUC Goias,27,TRUE,0.962962962962963
+11995,Editorial Committee of the Swedish Institutes at Athens and Rome (ECSI),27,TRUE,0.3703703703703704
+11997,Universidad de Manizales,27,TRUE,1
+16591,Universidade Regional Integrada do Alto U​ruguai e das Missoes,27,TRUE,0
+19881,Poltava V.G.Korolenko National Pedagogical University,27,TRUE,0.6296296296296297
+26145,Instituto Andaluz de Administracion Publica,27,TRUE,0.4814814814814815
+27169,European Scientific Platform (Publications),27,TRUE,1
+32984,STUDIO NOA,27,FALSE,0
+34207,HN Editora,27,FALSE,0
+39045,Rimana Editorial,27,TRUE,1
+5610,Associacao Brasileira de Engenharia de Producao - ABEPRO,26,TRUE,0.7307692307692308
+16396,Association of Economists and Managers of the Balkans - Udekom Balkan,26,TRUE,1
+17115,Institute of Russian Literature Pushkinskij Dom RAN,26,TRUE,0
+21477,Alanya Hamdullah Emin Pasa Universitesi,26,TRUE,0
+23746,LSPR Communication and Business Institute,26,TRUE,1
+36582,Tribunal Superior Eleitoral,26,TRUE,0.5769230769230769
+47612,TÁRKI Társadalomkutatási Intézet Zrt.,26,FALSE,0
+1485,International Association for Bridge and Structural Engineering (IABSE),25,TRUE,1
+9592,Policia Nacional de Colombia,25,TRUE,0.08
+18244,The Grassroots Institute,25,TRUE,1
+22678,Scientific Center of Innovative Researches,25,TRUE,0.44
+28573,ITD Perspektiva,25,FALSE,0
+31024,Editora Hipotese,25,FALSE,0
+32178,Librairie Philosophique J.Vrin,25,TRUE,0.48
+32417,College de France,25,FALSE,0
+33761,Grinrey Publishing,25,TRUE,1
+1560,Indiana University Press,24,TRUE,0
+12335,Uchitel Publishing House,24,TRUE,0
+17749,LETRA Alapitvany,24,FALSE,0
+17873,Universidad Politecnica Estatal del Carchi - UPEC,24,TRUE,0
+36747,Aberdeen University Press,24,TRUE,0
+37766,Karlsruhe Institute of Technology Library,24,TRUE,0.1666666666666667
+6872,"National Research University, Higher School of Economics (HSE)",23,TRUE,0
+7859,Society for Learning Analytics Research,23,TRUE,1
+9887,White Rose University Press,23,TRUE,0.391304347826087
+9926,Warsaw University of Life Sciences - SGGW Press,23,TRUE,0
+17420,mediastudies.press,23,TRUE,0
+17936,Red de Investigadores Educativos Chihuahua AC,23,TRUE,0.2173913043478261
+32612,Sinergia Casa Editorial,23,FALSE,0
+33954,Comite Iberoamericano de Etica y Bioetica,23,TRUE,0.6956521739130435
+34842,AliosVentos Ediciones AC,23,TRUE,1
+36345,Federacion Nacional de Cultivadores de Palma de Aceite - FEDEPALMA,23,TRUE,0.9565217391304348
+38633,Klisia,23,TRUE,0
+3246,Universidad de la Sabana,22,TRUE,1
+5195,River Publishers,22,TRUE,0
+10427,Letra e Imagem Editora e Producoes Ltda,22,FALSE,0
+17127,Vinogradov Russian Language Institute of the Russian Academy of Sciences,22,TRUE,0
+27080,Fundacao Oswaldo Aranha - FOA,22,TRUE,0
+27456,Facultad de Ciencias Juridicas y Politicas de la Universidad Nacional del Altiplano de Puno,22,TRUE,0.6818181818181818
+29993,Universidad Autonoma de Campeche,22,TRUE,0.1818181818181818
+33571,"Stratum plus I.P., High Anthropological School University",22,TRUE,0.8636363636363636
+5235,University of Edinburgh,21,TRUE,0
+11574,RIOR Publishing Center,21,TRUE,1
+30765,Universite Paris Cite,21,TRUE,0.5238095238095238
+33449,Centre interuniversitaire de recherche en analyse des organisations (CIRANO),21,TRUE,0
+35106,Instituto de Inteligencia em Pesquisa e Consultoria Cientifica Ltda,21,TRUE,0.9523809523809524
+35358,International Association for Group Psychotherapy and Group Processes (IAGP),21,FALSE,0
+8740,Instituto Federal Catarinense,20,TRUE,0
+10464,Sociedad Mexicana de Investigacion y Divulgacion de la Educacion Matematica A. C.,20,FALSE,0
+25100,sui generis Verlag,20,TRUE,0
+28206,"Faculdade de Letras, Universidade de Lisboa",20,TRUE,0.05
+32595,Universidad San Jorge,20,TRUE,1
+33996,Oklahoma International Publishing,20,TRUE,1
+34329,RELAEC - Revista Latino-Americana de Estudos Cientificos,20,TRUE,0
+2301,Omnia Publisher SL,19,TRUE,0.8947368421052632
+3461,Palacky University Olomouc,19,FALSE,0
+6276,University of Cape Town,19,TRUE,1
+9850,Sociedade Brasileira de Geofisica,19,TRUE,1
+18655,State Public Scientific-Technical Library,19,TRUE,1
+30391,Universidad Autónoma de Occidente,19,TRUE,0.1578947368421053
+30616,"BRAZILIAN JOURNAL OF AGROECOLOGY AND SUSTAINABILITY, Centro Vocacional Tecnologico Agrofamiliar",19,TRUE,0.8947368421052632
+31328,Fundacao Itau para a Educacao e Cultura,19,TRUE,0.9473684210526316
+33653,Athena International Publishing B.V.,19,FALSE,0
+34478,Vox Littera,19,TRUE,0
+34920,CEOS Edicoes - Centro de Estudos Organizacionais e Sociais do Politecnico do Porto,19,TRUE,1
+1604,American Educational Research Association (AERA),18,TRUE,1
+2090,RTI Press,18,TRUE,0
+2986,University of South Florida Libraries,18,TRUE,0
+8133,Council on Undergraduate Research,18,TRUE,1
+8447,Infonomics Society,18,FALSE,0
+8969,Acta Universitatis Gothoburgensis,18,TRUE,0
+8974,Editora Unijui,18,TRUE,0
+10229,Universidade Lusofona,18,TRUE,0.888888888888889
+11468,Borys Grinchenko Kyiv University,18,TRUE,0
+16194,INION RAS,18,TRUE,0
+18789,Pavol Jozef Safarik University in Kosice,18,TRUE,1
+19461,HTWK Leipzig,18,TRUE,0
+21986,Elon University Center for Engaged Learning,18,TRUE,1
+23739,Metis Presses SARL,18,TRUE,0
+26410,International Institute of Administrative Sciences,18,TRUE,0.7777777777777778
+27520,The Institute of Economic Forecasting of the Russian Academy of Sciences,18,TRUE,1
+27995,Universidad Tecnologica de la Mixteca,18,TRUE,1
+29303,Interativa Design,18,TRUE,0
+32282,Symposium Publishing House Ltd,18,FALSE,0
+36558,Indian Institute of Technology Knowledge Sharing in Publishing - IIT KSHIP,18,TRUE,0.9444444444444444
+39543,Australian and New Zealand College of Anaesthetists,18,TRUE,0.7222222222222222
+3361,"Society of Economic Geologists, Inc.",17,TRUE,1
+4381,Prof. Marin Drinov Publishing House of BAS (Bulgarian Academy of Sciences),17,TRUE,0
+32237,National Academy of Sciences of Ukraine (Co. LTD Ukrinformnauka) (Publications),17,TRUE,0
+32812,Quing Publications,17,FALSE,0
+35739,Norient - Verein fur Kulturproduktion,17,TRUE,0.6470588235294118
+38499,"Centro de Pesquisa em Direito, Tecnologia e Inovação (Centro DTIBR)",17,TRUE,0.9411764705882353
+5855,Adam Mickiewicz University Poznan,16,TRUE,1
+5894,"Institute of Europe, Russian Academy of Sciences (IERAS)",16,TRUE,0
+6348,Polish Society of Theoretical and Applied Mechanics,16,TRUE,0.9375
+6684,Perm State University (PSU),16,TRUE,1
+7088,Tomsk State University,16,TRUE,0.875
+8901,AIJR Publisher,16,TRUE,1
+23014,Widmaier Verlag,16,TRUE,0.3125
+27891,Fundacion de estudios parlamentarios y del Estado autonomico Manuel Gimenez Abad,16,FALSE,0
+31000,Sapientia Szerzetesi Hittudomanyi Foiskola,16,TRUE,0
+31610,Instituto Politecnico de Castelo Branco,16,TRUE,0.9375
+32375,Central Institute for Labour Protection - National Research Institute,16,TRUE,0.0625
+36484,The Leonard A. Lauder Research Center for Modern Art,16,FALSE,0
+40135,Centro Scalabriniano de Estudos Migratórios,16,TRUE,0
+4256,Vytautas Magnus University,15,TRUE,0
+7312,W.E. Upjohn Institute for Employment Research,15,TRUE,0
+7510,Fundacao Carlos Chagas,15,TRUE,0
+7787,Odesa I.I. Mechnikov National University,15,TRUE,1
+9293,University of Groningen Press,15,TRUE,1
+20015,Rzhanov Institute Semiconductor Physics SB RAS,15,TRUE,0
+22162,Centro Universitario de Oriente,15,TRUE,1
+23701,Magyar Rendeszettudomanyi Tarsasag,15,TRUE,1
+25523,Eurasian Law Journal,15,FALSE,0
+29494,Viella srl,15,TRUE,0
+33725,EMC Imprint,15,FALSE,0
+34057,Wydawnictwo Avalon Sp. z o.o.,15,TRUE,1
+39729,Integrare ICcor,15,FALSE,0
+393,Society for Neuroscience,14,TRUE,0
+5433,UCL Press,14,TRUE,0
+5887,Szkoła Główna Handlowa GV,14,TRUE,1
+9374,Polskie Towarzystwo Teologiczne Sekcja Wydawnicza,14,TRUE,0.9285714285714286
+9456,Darshan Publishers,14,TRUE,0
+11664,Universitaria Agustiniana,14,TRUE,1
+17120,Kyiv National University of Culture and Arts,14,TRUE,0
+17796,Servicio Geologico Colombiano,14,TRUE,0
+23868,Prodiko,14,TRUE,0
+26392,Fundacja Rozwoju Systemu Edukacji,14,TRUE,0
+28192,Orijentalni institut Univerziteta u Sarajevu (University of Sarajevo - Oriental Institute),14,TRUE,1
+29570,Imprensa Universitaria da Universidade Federal do Ceara,14,TRUE,0
+34696,Bölcsészettudományi Kutatóközpont,14,TRUE,0
+36731,Creosar Publishing,14,TRUE,1
+37438,"University of Zielona Góra, Poland",14,TRUE,0.9285714285714286
+38486,Karlstad University Press,14,TRUE,0
+7728,Instytut Badan Literackich PAN/The Institute of Literary Research PAS,13,FALSE,0
+9602,University of Windsor Leddy Library,13,TRUE,0.07692307692307691
+10438,Bucharest University of Economic Studies,13,TRUE,0
+10611,Universidade Estadual de Roraima,13,TRUE,0
+16418,Vasyl Stus Donetsk National University,13,FALSE,0
+28436,Revista Multidisciplinar em Educacao e Meio Ambiente,13,TRUE,0.3846153846153846
+31762,"Pacific Geographical Institute of the Far Eastern Branch of the Russian Academy of Sciences, Kamchatka Branch",13,TRUE,0
+36522,Universidad Tecnocientífica del Pacífico SC,13,TRUE,0
+36620,University of Dhaka,13,TRUE,1
+37518,Editorial Exced,13,TRUE,0
+2220,Chelonian Research Foundation,12,FALSE,0
+3779,University of Minnesota Press,12,FALSE,0
+4792,Mendel University Press,12,TRUE,0
+5805,Corvinus University of Budapest,12,TRUE,1
+9317,Towarzystwo Naukowe Franciszka Salezego (The Francis de Sales Scientific Society),12,TRUE,0.9166666666666667
+9467,Universidad Nacional Autonoma de Mexico,12,TRUE,1
+10468,University of Porto,12,TRUE,0
+11298,Fundacion Universitaria Juan N. Corpas,12,TRUE,1
+23181,Haute École Pédagogique - Bejune,12,TRUE,0
+28333,"Ustav pro ceskou literaturu AV CR, v. v. i.",12,TRUE,0.8333333333333333
+32306,Varna University of Management,12,TRUE,1
+36105,Narodowy Instytut Fryderyka Chopina,12,TRUE,0.1666666666666667
+5954,Research Centre for Astronomy and Earth Sciences,11,TRUE,0
+6229,PNRPU Publishing House,11,TRUE,0
+6579,University of Bergen Library,11,TRUE,0
+7964,Escuela de Postgrados de la FAC,11,TRUE,0
+19636,Stockholmia - forskning och forlag,11,TRUE,0
+20116,IOR Press,11,TRUE,0
+21195,Universidad de Ibague,11,TRUE,1
+22763,Instytut Sztuki Polskiej Akademii Nauk,11,TRUE,1
+22982,Education Support and Investment Fund NGO,11,TRUE,0.9090909090909091
+26045,Sociedade Paulista de Radiologia e Diagnostico por Imagem,11,TRUE,1
+29276,ALFAHELIX,11,TRUE,0.9090909090909091
+29304,Escola de Enfermagem de Ribeirao Preto,11,FALSE,0
+29541,Navida Editora,11,FALSE,0
+31830,Miskolci Egyetem Allam- es Jogtudomanyi Kar,11,FALSE,0
+31912,Verlag Scheidegger & Spiess AG,11,TRUE,0
+32172,Institute of Zoology,11,TRUE,1
+34840,Apprehendere,11,FALSE,0
+35667,"University of Denver, University Libraries",11,TRUE,1
+36422,SCIRES WEB - RITHA Publishing,11,TRUE,1
+39040,HA Edições Literárias,11,TRUE,1
+39982,GM Editorial,11,TRUE,1
+47871,Asociación Colombiana de Facultades de Psicología - ASCOFAPSI,11,TRUE,1
+352,UPV/EHU Press,10,TRUE,1
+1300,CFA Institute,10,TRUE,1
+4486,Estonian Literary Museum Scholarly Press,10,TRUE,1
+4722,Bonfring,10,TRUE,1
+6078,Cognitive-crcs,10,TRUE,0.9
+16190,Institut Za Noviju Istoriju Srbije,10,TRUE,0
+17303,Instituto Vianna Junior Ltda,10,TRUE,0
+18846,Central Economic Mathematical Institute of the Russian Academy of Sciences,10,TRUE,1
+19808,The Courtauld Institute of Art,10,TRUE,0
+20334,Cappadocia University,10,TRUE,0
+29403,Niederosterreichisches Institut fur Landeskunde (NOIL),10,FALSE,0
+30335,Retorikforlaget AB,10,TRUE,0
+30642,Pro Universitaria,10,TRUE,0
+30839,Fino Traco Editora,10,FALSE,0
+35232,Editora Dince,10,TRUE,0
+37677,WSB University in Poznań,10,TRUE,1
+39145,Gävle University Press,10,TRUE,0
+39972,Ordem dos Advogados do Brasil - Seção Minas Gerais - Subseção Juiz de Fora,10,TRUE,1
+40039,IHS Institute for Handwriting Sciences,10,TRUE,0.9
+47563,Instituto de Humanidades y Ciencias de la Conducta A.C.,10,TRUE,0
+1709,Ediciones Profesionales de la Informacion SL,9,TRUE,0
+3097,"University of Technology, Sydney (UTS)",9,TRUE,0.888888888888889
+4974,MESTE NGO,9,TRUE,0
+5209,Arkiv Forlag & Tidskrift,9,TRUE,0
+5406,Lepidus Tecnologia,9,TRUE,0
+5727,"Charles University in Prague, Karolinum Press",9,TRUE,0
+9422,Innovare Academic Sciences Pvt Ltd,9,TRUE,1
+12184,The University of Sydney Library,9,TRUE,1
+19491,"Revista AKEDIA - Versoes, Negligencias e Outros Mundos",9,TRUE,1
+19527,Institute of Cited Scientists,9,TRUE,1
+19889,Te Pukenga,9,TRUE,0
+22433,Universidad Norbert Wiener,9,TRUE,1
+22476,Universidad Andina del Cusco,9,TRUE,1
+28034,"The Global Health Network, University of Oxford",9,TRUE,1
+29318,Uusfilologinen yhdistys,9,TRUE,0.888888888888889
+29649,Fundacja Academicon,9,TRUE,0.7777777777777778
+30437,"Libraries, University of Houston",9,TRUE,1
+31244,PZWL Wydawnictwo Lekarskie,9,FALSE,0
+31473,Estrabao,9,TRUE,0
+35474,Letra Capital Editora,9,FALSE,0
+221,American Association for the Advancement of Science (AAAS),8,TRUE,1
+1881,Geological Society of London,8,TRUE,0
+9695,Autonomous University of the State of Quintana Roo,8,TRUE,0
+27161,Universidad de Otavalo,8,TRUE,0
+27636,Universitatea Sapientia din municipiul Cluj-Napoca,8,TRUE,1
+31325,Universitetskanslersämbetet,8,TRUE,0
+33818,"Japanese Studies, University of Dhaka",8,TRUE,0
+34131,Editora Panaro,8,FALSE,0
+38584,Editora UNISV,8,FALSE,0
+4176,Seed SRL,7,TRUE,0
+8904,OU Scientific Route,7,TRUE,0
+15186,Pravo Publishing House,7,TRUE,0
+22471,Gauteng City - Region Observatory,7,FALSE,0
+24556,Universidad la Salle Pachuca,7,TRUE,1
+28407,"Institut Catala d Arqueologia Classica, ICAC",7,TRUE,0
+37696,"Corporación Internacional de Investigación y Desarrollo en Innovación, Emprendedurismo y Sostenibilidad",7,TRUE,1
+38488,Kungliga Skytteanska Samfundets Handlingar,7,TRUE,0
+4034,UNED - Universidad Nacional de Educacion a Distancia,6,TRUE,1
+9117,"TSNS Interaktiv Plus, LLC",6,TRUE,0.3333333333333333
+10152,Association of Science Editors and Publishers,6,TRUE,1
+10892,The National University of Ostroh Academy,6,TRUE,1
+19929,Universidade Federal de Sao Paulo,6,TRUE,0.6666666666666667
+22730,Azerbaijan Science Center,6,TRUE,0
+25072,Fundacion Universitaria Juan de Castellanos,6,TRUE,0
+38017,Vestigium S.A.,6,TRUE,0
+38459,Technology Research and Innovation Centre,6,TRUE,0.8333333333333333
+7583,Universidad Continental,5,TRUE,1
+9443,Technosphera JSC,5,TRUE,1
+11544,LLC MAKS Press,5,TRUE,1
+18080,Uppsala University,5,TRUE,0
+21695,Editorial Octaedro,5,TRUE,1
+23641,The Japan Association for Language Teaching (JALT),5,TRUE,1
+23803,Asociacion Latinoamericana para el Avance de la Ciencia,5,TRUE,0.2
+26932,Universidad Internacional de Ciencia y Tecnologia,5,TRUE,1
+27203,"Charak Samhita Research, Training and Skill Development Centre",5,FALSE,0
+28298,Universidad Tecnica de Machala,5,TRUE,1
+28836,Editora Aluz,5,TRUE,1
+30891,International Centre for Integrated Mountain Development (ICIMOD),5,TRUE,1
+34120,Editorial Comares S.L.,5,TRUE,0.2
+38547,Wildlife Ecology Institute,5,FALSE,0
+3444,Smithsonian Institution,4,TRUE,0
+10603,International Society For Education Through Art- InSEA,4,FALSE,0
+16018,Central Library of the Slovak Academy of Sciences,4,TRUE,0
+11477,Felix Meiner Verlag GmbH,3,TRUE,0
+30229,5m Books Ltd,3,TRUE,0
+30474,North Carolina State University,3,FALSE,0
+32405,"Department of Cultural and Religious Studies, The Chinese University of Hong Kong",3,FALSE,0
+34249,United States Military Academy Library,3,FALSE,0
+37468,Polish Academy of Sciences Chancellery,3,TRUE,0
+311,Wiley,2,TRUE,0
+2030,"Peter Lang, International Academic Publishers",2,TRUE,0
+9708,Vasundara Groups,2,FALSE,0
+31343,Zhetysu University named after I. Zhansugurov,2,FALSE,0
+34204,Shuangqing Academic Publishing House Limited,2,TRUE,1
+37341,DPI Publishing UG (Haftungsbeschränkt),2,TRUE,1
+235,American Society for Microbiology,1,TRUE,0
+7822,Test accounts,1,TRUE,0
+8596,Alconpat Internacional,1,TRUE,1
+8624,Federal Research Institute for Health Organization and Informatics,1,TRUE,0
+8859,Wageningen Academic Publishers,1,TRUE,0
+13844,University of Calgary,1,TRUE,1
+29705,California Digital Library (CDL),1,TRUE,1
+30339,Bank of Greece,1,TRUE,0
+31150,Tirant lo Blanch Brasil,1,FALSE,0
+35633,Scientia International Press,1,TRUE,0
+36401,Language Pedagogy,1,FALSE,0
+39446,Colección La Fuente,1,TRUE,1

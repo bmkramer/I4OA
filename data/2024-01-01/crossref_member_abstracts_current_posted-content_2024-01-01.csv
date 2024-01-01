@@ -1,0 +1,118 @@
+id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_type
+1086,American Association for Cancer Research (AACR),250824,TRUE,1
+8761,Research Square Platform LLC,158127,TRUE,1
+246,Cold Spring Harbor Laboratory,145982,TRUE,0.999952048882739
+78,Elsevier BV,116766,TRUE,0
+3145,Copernicus GmbH,67122,TRUE,0.9244807961622121
+15934,Center for Open Science,54613,TRUE,0.9998168934136561
+1968,MDPI AG,35798,TRUE,1
+316,American Chemical Society (ACS),23883,TRUE,0.858351128417703
+9829,"Authorea, Inc.",22025,TRUE,0.8414982973893304
+263,Institute of Electrical and Electronics Engineers (IEEE),16803,TRUE,0.9942272213295245
+1010,JMIR Publications Inc.,13943,TRUE,0.9965574123215951
+7078,"ZappyLab, Inc.",10230,TRUE,0.9997067448680352
+18300,Ryerson University Library and Archives,8516,TRUE,1
+311,Wiley,8294,TRUE,0.009766095972992526
+22980,Morressier,7925,FALSE,0
+33,ASME International,5422,TRUE,0
+56,Cambridge University Press (CUP),4219,TRUE,1
+257,Geological Society of America,3407,TRUE,1
+1167,American Diabetes Association,2941,TRUE,1
+29705,California Digital Library (CDL),2790,TRUE,0.907168458781362
+4374,"eLife Sciences Publications, Ltd",2511,TRUE,1
+8674,Universitas Muhammadiyah Sidoarjo,2497,TRUE,0
+31795,Front Matter,2028,TRUE,0.92603550295858
+17262,Qeios Ltd,1847,TRUE,0.9967514889009204
+530,FapUNIFESP (SciELO),1841,TRUE,0.9940249864204237
+179,SAGE Publications,1722,TRUE,1
+285,Optica Publishing Group,1524,TRUE,1
+5403,ScienceOpen,1011,TRUE,0.9742828882294758
+33966,Open Engineering Inc,987,TRUE,0.02735562310030395
+26239,Applied Energy Innovation Institute (AEii),943,FALSE,0
+30676,Cassyni,925,TRUE,0.9513513513513514
+242,CABI Publishing,838,TRUE,1
+345,Microbiology Society,563,TRUE,1
+37285,Polygence,510,FALSE,0
+11875,Even3,491,TRUE,0.670061099796334
+237,The Company of Biologists,469,TRUE,0
+2258,Pensoft Publishers,468,TRUE,0.9957264957264957
+25732,Universitatsbibliothek Bamberg,389,TRUE,0
+10196,NPG Publishing,347,TRUE,1
+14,American Mathematical Society (AMS),344,TRUE,0
+2086,Beilstein Institut,253,TRUE,1
+8634,Russian Research Anti-Plague Institute Microbe,224,TRUE,1
+28200,"Society for Transparency, Openness, and Replication in Kinesiology",221,TRUE,0
+18353,Dominican University of California,206,TRUE,0
+9794,Society for Artistic Research,195,FALSE,0
+9621,PubPub,177,FALSE,0
+7822,Test accounts,160,TRUE,0
+30474,North Carolina State University,130,FALSE,0
+22755,University of the Free State,105,TRUE,1
+10409,Association of European Schools of Planning (AESOP),104,TRUE,0
+10490,"Institute of Marine Engineering, Science and Technology (IMarEST)",103,FALSE,0
+34139,Deep Science,101,FALSE,0
+27360,rScroll,93,TRUE,0
+14217,"Colorado College, Tutt Library",92,FALSE,0
+2796,SAE International,91,TRUE,0
+77,The Electrochemical Society,90,TRUE,1
+5433,UCL Press,83,TRUE,0.963855421686747
+8607,Federal Reserve Bank of Minneapolis,67,FALSE,0
+3948,GN1 Sistemas e Publicacoes Ltd.,63,TRUE,0
+4923,Open Book Publishers,59,TRUE,0
+7524,Wageningen University and Research,59,TRUE,0
+276,Ovid Technologies (Wolters Kluwer Health),56,TRUE,1
+6626,The University of Iowa,55,TRUE,0.7090909090909091
+3180,Amsterdam University Press,52,TRUE,1
+13290,University Goettingen,51,TRUE,0
+5183,American Society of Agricultural and Biological Engineers (ASABE),49,TRUE,1
+22141,CALNESTOR Knowledge Solutions Private Limited,47,FALSE,0
+37393,Staatliche Kunstsammlungen Dresden,38,TRUE,0.8421052631578947
+8901,AIJR Publisher,35,TRUE,1
+11508,"James P. Adams Library, Rhode Island College",35,TRUE,1
+7608,Universidad San Francisco De Quito,30,TRUE,0
+7597,Brepols Publishers NV,28,TRUE,1
+32260,Cabrera Research Lab,23,TRUE,1
+2986,University of South Florida Libraries,22,TRUE,0
+10792,UNISA Press,22,TRUE,1
+16862,San Jose State University Library,21,TRUE,0
+21583,Progettinrete Srl,20,TRUE,0
+11224,Victoria University of Wellington Library,17,TRUE,1
+3444,Smithsonian Institution,16,TRUE,1
+33493,O P Jindal Global University,16,TRUE,0
+38096,Bureau International des Poids et Mesures,14,TRUE,0
+9592,Policia Nacional de Colombia,12,TRUE,0
+23910,Editora Alumniin,12,TRUE,0
+2215,Research Publishing Services,11,TRUE,0
+8945,Rhodes University,10,TRUE,1
+30843,CRIORG.institute,10,FALSE,0
+33199,Peaceful Science,10,FALSE,0
+3774,IntechOpen,8,TRUE,1
+14238,Williams College,8,FALSE,0
+26493,Tree of Evolution,7,FALSE,0
+34163,Centre de Recherche de l'Institut Universitaire de Geriatrie de Montreal,6,FALSE,0
+10597,Therapoid,5,TRUE,1
+36707,"NIA IMPACT Collaboratory at Marcus Institute for Aging Research, Hebrew SeniorLife",5,TRUE,0.2
+4068,National Institute of Standards and Technology (NIST),4,TRUE,0
+5558,Wesleyan University,4,FALSE,0
+16078,A.P. Ershov Institute of Informatics Systems SB RAS,4,FALSE,0
+34961,Open Access India,4,FALSE,0
+3842,Cellule MathDoc/CEDRAM,3,FALSE,0
+15947,"Boise State University, Albertsons Library",3,TRUE,1
+27425,National Academy of Sciences of Belarus,3,TRUE,0.3333333333333333
+27991,Stichting OpenAccess Foundation,3,TRUE,0
+8875,ABEC Publicacoes,2,TRUE,0
+14076,University of New Hampshire Libraries,2,FALSE,0
+21822,Firenze University Press,2,TRUE,0
+27081,Professionals On Line SAC,2,TRUE,0
+2868,SciELO Espana/Repisalud,1,TRUE,0
+10978,Universidad de Lima,1,TRUE,0
+11938,Universidad de Concepcion,1,TRUE,0
+13980,Drexel University Libraries,1,TRUE,1
+14073,University of Missouri Libraries,1,TRUE,0
+14696,Middlebury College Library,1,FALSE,0
+18361,Institute of Navigation,1,FALSE,0
+19638,West Virginia University Libraries,1,FALSE,0
+24905,Infomedic International,1,TRUE,0
+37050,NDT.net GmbH & Co. KG,1,TRUE,0
+37607,"O2M Technologies, LLC",1,FALSE,0
+48087,Association of Medical and Pharmaceutical Law,1,FALSE,0
