@@ -1,50 +1,53 @@
 id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_type
 78,Elsevier BV,723124,TRUE,0.4335065631897157
 297,Springer Science and Business Media LLC,208871,TRUE,0.9999904247119035
-54368,openRxiv,180870,TRUE,0.9999944711671366
+54368,openRxiv,181089,TRUE,0.9999944778534312
 1086,American Association for Cancer Research (AACR),96108,TRUE,1
-3145,Copernicus GmbH,94295,TRUE,0.933888329179702
-1968,MDPI AG,86602,TRUE,0.996408858917808
-15934,Center for Open Science,65144,TRUE,0.9513846248311433
-54080,The Conversation Media Group Ltd,60261,FALSE,0
+3145,Copernicus GmbH,94315,TRUE,0.9338493346763505
+1968,MDPI AG,86754,TRUE,0.9964151508864145
+15934,Center for Open Science,65234,TRUE,0.9513903792500843
+54080,The Conversation Media Group Ltd,60330,FALSE,0
 311,Wiley,40518,TRUE,0.8158842983365417
 316,American Chemical Society (ACS),32098,TRUE,0.9443267493301764
-8761,Research Square Platform LLC,16170,TRUE,1
+31795,Front Matter,19833,TRUE,0.9959663187616599
+8761,Research Square Platform LLC,16168,TRUE,1
 1010,JMIR Publications Inc.,15313,TRUE,0.9975837523672696
 263,Institute of Electrical and Electronics Engineers (IEEE),11917,TRUE,0.9732315179994965
 37393,Staatliche Kunstsammlungen Dresden,9282,TRUE,1
-4374,"eLife Sciences Publications, Ltd",9063,TRUE,1
+4374,"eLife Sciences Publications, Ltd",9076,TRUE,1
 18300,Toronto Metropolitan University Library and Archives,8145,TRUE,1
 8674,Universitas Muhammadiyah Sidoarjo,6481,TRUE,0
-29705,California Digital Library (CDL),6394,TRUE,0.9862370972786988
+29705,California Digital Library (CDL),6402,TRUE,0.986254295532646
 285,Optica Publishing Group,4586,TRUE,1
 21822,Firenze University Press,3619,TRUE,0
 257,Geological Society of America,3494,TRUE,1
-17262,Qeios Ltd,3410,TRUE,1
+17262,Qeios Ltd,3411,TRUE,1
 56,Cambridge University Press (CUP),3314,TRUE,1
-33966,Open Engineering Inc,3179,TRUE,0.9653979238754326
-56385,Mongabay,3146,FALSE,0
+33966,Open Engineering Inc,3189,TRUE,0.9655064283474443
+56385,Mongabay,3154,FALSE,0
 530,FapUNIFESP (SciELO),2924,TRUE,0.9928180574555404
-10196,NPG Publishing,2754,TRUE,1
-2560,F1000 Research Ltd,2683,TRUE,0.5825568393589265
+10196,NPG Publishing,2798,TRUE,1
+30676,Cassyni,2749,TRUE,0.9945434703528556
+2560,F1000 Research Ltd,2699,TRUE,0.583178955168581
 1167,American Diabetes Association,2563,TRUE,1
-22980,Morressier GmbH,2309,FALSE,0
-37285,Polygence,1872,FALSE,0
-5403,ScienceOpen,1776,TRUE,0.9893018018018018
-12730,Karolinska Institutet,1562,TRUE,1
+22980,Morressier GmbH,2311,FALSE,0
+37285,Polygence,1896,TRUE,0.01265822784810127
+5403,ScienceOpen,1781,TRUE,0.9893318360471645
+12730,Karolinska Institutet,1566,TRUE,1
 242,CABI Publishing,1372,TRUE,0.173469387755102
-53665,Faculti Media Limited,1273,TRUE,0.8554595443833464
+53665,Faculti Media Limited,1281,TRUE,0.8563622170179547
 345,Microbiology Society,1239,TRUE,1
 861,Society of Petroleum Engineers (SPE),1079,TRUE,0
 179,SAGE Publications,904,TRUE,0.7599557522123894
 26239,Applied Energy Innovation Institute (AEii),880,FALSE,0
-11875,Even3,760,TRUE,1
+31336,Fund Science and Culture Support Centre,823,TRUE,0
+11875,Even3,763,TRUE,1
 3992,The Society of Naval Architects and Marine Engineers,676,TRUE,0
-9794,Society for Artistic Research,663,TRUE,0.9894419306184012
-2258,Pensoft Publishers,624,TRUE,1
-12964,National Laboratory of the Rockies,604,FALSE,0
+9794,Society for Artistic Research,664,TRUE,0.9894578313253012
+2258,Pensoft Publishers,626,TRUE,1
+12964,National Laboratory of the Rockies,608,FALSE,0
 12952,University of Tennessee,552,TRUE,1
-7569,University of Ottawa Library,519,TRUE,0.001926782273603083
+7569,University of Ottawa Library,520,TRUE,0.001923076923076923
 5801,The Hong Kong University of Science and Technology Library,511,FALSE,0
 57705,European Corporate Governance Institute (ECGI),445,TRUE,1
 237,The Company of Biologists,402,TRUE,0
@@ -52,24 +55,26 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 25732,Universitatsbibliothek Bamberg,368,TRUE,0
 10438,Bucharest University of Economic Studies,314,TRUE,0
 18353,Dominican University of California,298,TRUE,0
-54718,Shenzhen Medical Academy of Research and Translation,293,TRUE,1
+54718,Shenzhen Medical Academy of Research and Translation,294,TRUE,1
 49317,DeSci Labs AG,289,FALSE,0
 9621,Knowledge Futures,282,FALSE,0
 14217,"Colorado College, Tutt Library",276,FALSE,0
 10286,Crossref,265,TRUE,0.9735849056603774
+48409,Paideia Studio (publications),257,TRUE,0.77431906614786
 8634,Russian Research Anti-Plague Institute Microbe,253,TRUE,1
 22755,University of the Free State,244,TRUE,1
 7980,University of Southern Mississippi,236,TRUE,0
 3180,Amsterdam University Press,219,TRUE,1
 55228,Cifra Ltd – Russian Agency for Digital Standardization (RADS) publishing,211,TRUE,0.1327014218009479
-8410,OAE Publishing Inc.,198,TRUE,0
-2086,Beilstein Institut,180,TRUE,1
+8410,OAE Publishing Inc.,199,TRUE,0
+2086,Beilstein Institut,182,TRUE,1
+56680,XSci Ltd.,163,TRUE,0.9754601226993865
 54601,China Humanities Publishing House,160,FALSE,0
-56680,XSci Ltd.,160,TRUE,0.975
-4043,EMBL-EBI,154,TRUE,0.8441558441558442
+4043,EMBL-EBI,155,TRUE,0.8451612903225806
 19448,Cifra Ltd - Russian Agency for Digital Standardization (RADS),150,TRUE,0.2266666666666667
 53832,The Balagha Corpus,149,TRUE,1
 13290,University Goettingen,142,TRUE,0
+48263,"Center for Scientific Research and Development in Higher Education Institutes, Ministry of Education",139,FALSE,0
 48802,Earthquake Insights,137,FALSE,0
 54335,Society for Animation Studies,119,TRUE,1
 10490,"Institute of Marine Engineering, Science and Technology (IMarEST)",111,TRUE,0
@@ -79,7 +84,7 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 6221,National Institute for Health and Care Research,103,TRUE,1
 7822,Test accounts,99,TRUE,0
 7524,Wageningen University and Research,94,TRUE,0
-50945,CarbonPlan,89,FALSE,0
+50945,CarbonPlan,90,FALSE,0
 5433,UCL Press,85,TRUE,0
 77,The Electrochemical Society,81,TRUE,0.9753086419753086
 10792,UNISA Press,76,TRUE,1
@@ -105,9 +110,9 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 6626,The University of Iowa,34,TRUE,0.9705882352941176
 57428,Crivum,34,FALSE,0
 246,Cold Spring Harbor Laboratory,33,TRUE,1
+57091,Recognition Physics Research Institute,33,TRUE,1
 2184,"Wolfram Research, Inc.",32,TRUE,0
 19348,Instituto Nacional de Salud - Direccion de Vigilancia y Analisis del Riesgo en Salud Publica,32,TRUE,0
-57091,Recognition Physics Research Institute,32,TRUE,1
 14,American Mathematical Society (AMS),31,TRUE,0
 22141,CALNESTOR Knowledge Solutions Private Limited,31,FALSE,0
 53175,"Nexus Platforms, Inc.",28,FALSE,0
@@ -118,6 +123,7 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 14118,Bibliotheque de l'Universite Laval,24,TRUE,0
 58562,The Lundbeck Foundation,24,TRUE,0.125
 8945,Rhodes University,23,TRUE,1
+35667,"University of Denver, University Libraries",23,TRUE,0
 281,MIT Press,22,TRUE,0
 3748,Purdue University Press,22,TRUE,0
 14238,Williams College,21,TRUE,0
@@ -128,6 +134,7 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 38766,The Institute of Reflective Investigations & Specialization,17,TRUE,0.7058823529411765
 48717,Curvenote Inc.,16,TRUE,0.9375
 54657,Emerge Publications,16,TRUE,0.0625
+51602,Ideal Teachers' Training College,15,TRUE,1
 55235,Chengdu KeChuang Institute of Science and Culture,15,TRUE,1
 2796,SAE International,14,TRUE,0
 39001,"The Journal of Emerging Investigators, Inc.",14,TRUE,0
@@ -135,10 +142,11 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 6672,The University of Kansas,13,TRUE,0
 49114,Atomic Academia Ltd,13,TRUE,1
 50417,"Institute of Mining, Ural Branch of the Russian Academy of Sciences",13,TRUE,0
+53159,b.next,13,TRUE,0.7692307692307692
 29681,OJSBR (Publications),12,TRUE,1
+30474,North Carolina State University,12,TRUE,0
 33493,O P Jindal Global University,12,TRUE,0
 36756,SMW Supporting Association,12,TRUE,0
-53159,b.next,12,TRUE,0.75
 1073,Pontificia Universidad Catolica de Valparaiso,11,TRUE,0
 8901,AIJR Publisher,11,TRUE,1
 38670,EYA Academy,11,TRUE,0
@@ -146,6 +154,7 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 39174,Science Colab,10,TRUE,1
 19903,Universidad Catolica Boliviana San Pablo,9,TRUE,0
 51168,Transforming Evidence,8,TRUE,1
+51814,Thoth Open Metadata,8,FALSE,0
 55413,Münchner Gesellschaft zur Förderung der Wirtschaftswissenschaft – CESifo GmbH,8,TRUE,0
 3842,MathDoc/Centre Mersenne,7,TRUE,0
 16078,A.P. Ershov Institute of Informatics Systems SB RAS,7,FALSE,0
@@ -153,6 +162,7 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 26493,Tree of Evolution,7,FALSE,0
 27081,Professionals On Line SAC,7,TRUE,1
 33332,Berlin Exchange,7,FALSE,0
+47652,Dutch Research Council (NWO),7,TRUE,0.8571428571428571
 230,American Psychiatric Association Publishing,6,TRUE,0
 13980,Drexel University Libraries,6,TRUE,0.8333333333333333
 14076,University of New Hampshire Libraries,6,FALSE,0
@@ -165,6 +175,7 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 32260,Academy of Systems Thinking,5,TRUE,1
 33199,Peaceful Science,5,FALSE,0
 34139,Deep Science,5,FALSE,0
+35915,Centro de Estudos Interdisciplinares,5,TRUE,1
 50530,CodeDay,5,FALSE,0
 52951,SciPinion,5,FALSE,0
 54445,EMJ LIFE Holdings Pte. Ltd.,5,TRUE,0
@@ -197,7 +208,10 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 13687,Iowa State University,2,TRUE,0
 33787,Brīvā Universitāte,2,TRUE,0
 34961,Open Access India,2,TRUE,0
+35360,Frontier Development Lab,2,TRUE,1
+48087,Association of Medical and Pharmaceutical Law,2,FALSE,0
 50190,University of Information Technology and Business Education,2,TRUE,0
+51541,Institute for Global Negotiation,2,TRUE,0
 53095,Explore Science,2,TRUE,1
 54977,Open Academic Community,2,TRUE,1
 55134,Nedion Press,2,TRUE,1
@@ -220,11 +234,17 @@ id,primary_name,count_current_type,deposits_abstracts_current,abstracts_current_
 32066,Yayasan Ghalih Pelopor Pendidikan,1,TRUE,1
 33625,Institute of Botany of the Academy of Sciences of the Republic of Uzbekistan,1,TRUE,0
 33728,ConductScience Inc,1,TRUE,1
+35633,Scientia International Press,1,TRUE,0
+36136,Branch CIRD of the Ministry of Construction and Housing and Communal Services of the Russian Federation the Badge of Honor Ural Research and Design Institute,1,TRUE,0
 38473,Machine Learning for Biomedical Imaging,1,TRUE,0
 38908,Global Alliance for Genomics and Health Inc.,1,FALSE,0
 48703,American Geosciences Institute,1,TRUE,0
 48987,InfoEduTec Publications,1,TRUE,0
 49883,Eter One LLC,1,TRUE,1
+51568,Research on Research Institute,1,FALSE,0
+51607,1QBit,1,FALSE,0
+52388,Wild Animal Initiative,1,FALSE,0
+52645,University Library Tuebingen,1,FALSE,0
 53145,Dhvani Publication,1,FALSE,0
 54438,Wikimedica,1,TRUE,1
 56619,Science Insights,1,TRUE,0
